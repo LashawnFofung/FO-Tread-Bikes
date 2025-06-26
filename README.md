@@ -1,5 +1,5 @@
 # FO-Tread-Bikes
-MBA Capstone Simulation (Conscious Capitalism)
+<b>MBA Capstone Simulation (Conscious Capitalism)</b>
 
 This repository showcases the strategic analysis and decision-making undertaken for the FO Tread Bikes MBA Capstone Simulation. It details our journey in navigating a competitive bicycle manufacturing market, demonstrating hands-on experience in strategic leadership, financial management, operations, marketing, and human resources. The project highlights how data-driven decisions, particularly in supply and demand forecasting, manufacturing capacity, advertising, and pioneering product innovation (3D-printed carbon fiber technology), were crucial in achieving sustainable market share growth and optimized financial performance, culminating in a significant company valuation and a 127.68% ROI. This work exemplifies the application of Conscious Capitalism principles in a practical business context.
 
