@@ -35,10 +35,11 @@ A bicycle manufacturing company operating in a competitive global market needs t
 
 <h3>REPORTING</h3>
 This section provides access to the detailed analytical outputs, raw data files, and visual representations generated throughout the simulation. It includes:
-  - <b>1. Detailed Financial Statements: Income Statements, Balance Sheets, and Cash Flow Statements for Q4, Q5, and Q6.
-  - <b>2. Market Data Reports: Raw data and analyzed tables showing market demand, company-specific demand, and market share percentages for all competitors across quarters.
-  - <b>3. Performance Dashboards: Visual summaries (e.g., line charts for trends, column charts for comparisons, pie charts for distribution) illustrating key financial, operational, and market-related KPIs.
-  - <b>4. Strategic Decision Logs: Documentation of major decisions made each quarter and their direct impact.
+
+  - <b>1. Detailed Financial Statements:</b> Income Statements, Balance Sheets, and Cash Flow Statements for Q4, Q5, and Q6.
+  - <b>2. Market Data Reports:</b> Raw data and analyzed tables showing market demand, company-specific demand, and market share percentages for all competitors across quarters.
+  - <b>3. Performance Dashboards:</b> Visual summaries (e.g., line charts for trends, column charts for comparisons, pie charts for distribution) illustrating key financial, operational, and market-related KPIs.
+  - <b>4. Strategic Decision Logs:</b> Documentation of major decisions made each quarter and their direct impact.
 
 <h3></h3>
 <b>ANALYSIS OUTPUT AND CALCULATIONS</b>
