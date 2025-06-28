@@ -1,11 +1,10 @@
 <h1>Data Analysis Report</h1>
 
 <h3>Objective</h3>
-
-To determine if a s............
+To determine if a strategic and data-driven approach to business operations and market engagement can lead to sustainable market share growth, optimized financial performance, and overall competitive advantage within a dynamic industry simulation.
 
 <h3>Problem Statement</h3>
-A ............
+A bicycle manufacturing company operating in a competitive global market needs to make informed strategic decisions across various functions (finance, marketing, operations, human resources) to effectively respond to market demand, counter competitor actions, and achieve long-term profitability and shareholder value, especially when balancing growth with risk mitigation.
 
 
 <h3>Data & Methodology</h3>
