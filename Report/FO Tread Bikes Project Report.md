@@ -9,7 +9,6 @@ A bicycle manufacturing company operating in a competitive global market needs t
 
 <h3>Data & Methodology</h3>
 
-  - <b>one:</b> ENTER.....
   - <b>1. Data Acquisition:</b> Utilized comprehensive datasets from the Marketplace Business Simulation, including:
 
     - <b>Market Share Data (Q4-Q6):</b> Detailed breakdowns of market share percentages across all companies and specific product segments (Recreation, Mountain, Speed).
@@ -24,9 +23,14 @@ A bicycle manufacturing company operating in a competitive global market needs t
   - <b>Marketing & Sales Effectiveness:</b> Evaluated advertising ROI, pricing strategies, and sales channel performance to optimize market penetration and brand presence.
   - <b>Data Interpretation & Visualization:</b> Utilized data to track KPIs, identify correlations between decisions and outcomes, and create clear visuals (charts, tables) for reporting.
   
+
+
 <h3>Key Findings</h3>
 
- - <b>one:</b> ENTER.....
+- <b>1. Capacity Investment is Critical for Market Capture:</b> Underinvestment in fixed manufacturing capacity during periods of surging market demand (e.g., Q5 and Q6) directly correlated with a decline in market share and resulted in missed sales opportunities and stockouts, despite overall market growth. Proactive capacity expansion is essential to capitalize on demand.
+- <b>2.Strategic Advertising Amplifies Market Share:</b> Maintaining consistent advertising spend in a rapidly growing and competitive market can lead to a loss of market share. A more aggressive and strategically responsive advertising investment, informed by competitive analysis, is crucial to amplify brand presence and convert demand into sales.
+- <b>3.Innovation and Customer Engagement Drive Value:</b> Pioneering new 3D-printed carbon fiber bike brands significantly differentiated the company, attracted early adopters, and generated substantial demand in key segments (e.g., Mountain bikes). Concurrently, strategic investments in customer touchpoints, like the New York City flagship store, enhanced customer relationships and drove measurable sales growth in relevant segments (e.g., Recreation bikes).
+- <b>4.Strong Financial Health Supports Growth:</b> Despite strategic expenditures leading to temporary cash outflows, the company maintained a healthy balance sheet, strong cash position, and positive operating cash flow, validating its ability to self-fund significant growth initiatives. The project culminated in a robust company valuation and an impressive 127.68% projected ROI, demonstrating effective value creation for shareholders.
 
 
 <h3>REPORTING</h3>
