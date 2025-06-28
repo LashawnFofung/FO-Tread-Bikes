@@ -11,4 +11,4 @@ Through the MBA Capstone Simulation, I gained hands-on experience in strategic l
 <h2>Project YouTube </h2>
 
 - [Business Plan Presentation](https://youtu.be/fPxMes6A5BI)
-- Stockholder Report Presentation
+- [Stockholder Report Presentation](https://youtu.be/c9PEnwB_V0w)
