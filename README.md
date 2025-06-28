@@ -12,3 +12,5 @@ Through the MBA Capstone Simulation, I gained hands-on experience in strategic l
 
 - [Business Plan Presentation](https://youtu.be/fPxMes6A5BI)
 - [Stockholder Report Presentation](https://youtu.be/c9PEnwB_V0w)
+
+The WGU MBA Capstone facilated through the [Marketplace Simulations](https://www.marketplace-simulation.com).
