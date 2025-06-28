@@ -6,6 +6,8 @@ This repository showcases the strategic analysis and decision-making undertaken 
 
 Through the MBA Capstone Simulation, I gained hands-on experience in strategic leadership and business strategy, encompassing strategic planning and execution, market analysis, and competitive intelligence. I honed my financial management abilities, including financial analysis, strategic investment, and P&L management. My role also involved operations management, such as supply chain management and process optimization, alongside crucial marketing and sales efforts like product marketing and sales channel optimization. A strong emphasis was placed on data analysis and decision-making, utilizing data interpretation and KPI tracking to inform data-driven strategies. Beyond technical skills, I developed essential soft skills, including critical thinking and problem-solving, strategic agility, executive presentation, cross-functional collaboration, and adaptive strategy development in response to market changes.
 
+*** The WGU MBA Capstone facilated through [Marketplace Simulations](https://www.marketplace-simulation.com).
+
 <h2></h2>
 
 <h2>Project YouTube </h2>
@@ -13,4 +15,4 @@ Through the MBA Capstone Simulation, I gained hands-on experience in strategic l
 - [Business Plan Presentation](https://youtu.be/fPxMes6A5BI)
 - [Stockholder Report Presentation](https://youtu.be/c9PEnwB_V0w)
 
-The WGU MBA Capstone facilated through [Marketplace Simulations](https://www.marketplace-simulation.com).
+
