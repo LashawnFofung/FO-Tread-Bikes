@@ -2,30 +2,36 @@
 
 <h1>FO Treads Bikes MBA Capstone Project: Dashboard Overview</h1>h1>
 
-This repository details the FO Treads Bikes MBA Capstone Project, developed within a Marketplace Simulation. It provides a comprehensive overview of the business plan, strategic decisions, market performance, and financial outcomes of FO Treads Bikes, a venture focused on the cycling industry.
+<b>Description and Contents</b>
+A dashboard, in the context of the FO Treads Bikes MBA Capstone Project, is a visual display of key business metrics, performance indicators, and data trends, designed to provide a comprehensive and real-time overview of the company's health and progress. It serves as a centralized hub for stakeholders—such as the project team, instructors, or hypothetical investors—to quickly grasp the state of the business, identify areas of success, and pinpoint challenges.
 
-Project Overview
-FO Treads Bikes aims to deliver a top-tier, elite, and affordable cycling experience through innovative 3D-printed carbon fiber technology. The core objectives include turning a profit by Q5, increasing market presence, and enhancing brand judgment. The overarching strategy emphasizes balanced growth, market leadership (pioneering 3D printing carbon fiber tech), and excellent customer service, including the establishment of a flagship store in New York City.
-Key Strategic Thrusts & Innovations
-•	Balanced Growth: Systemic reinvestment in manufacturing capacity and long-term competitive positioning.
-•	Market Leadership: Pioneering the use of 3D-printed carbon fiber technology for bicycle parts, leading to stronger, lighter, and more economical products.
-•	New Bike Brands: Launch and development of new bike brands like Mountain 3 (Q4), Mountain 3D (Q5), CF Vector 3 (Q6), AERO 3 (Q6), and Mountain 4 (Q6), leveraging advanced 3D-printed carbon fiber technology.
-•	Customer Service: Enhancing direct customer interaction through the New York City flagship store, which significantly increased Recreation bike sales.
-Market Performance and Sales
-The project includes detailed analysis of market share and demand across Recreation, Speed, and Mountain bike segments from Q2 to Q6. Initial market share for FO Treads Bikes was 41% in Q2, shifting to 18% in Q3, with specific demand data for each segment showing varying market positions. Sales revenue and units sold for various bike brands are meticulously tracked, demonstrating significant growth from Q2 to Q3. Projected demand for Q6 was 3,630 units, with projected revenue of $5,357,880.00.
-Financial Health and Investment
-The financial strategy focuses on maximizing available cash, seeking venture capital investment, and scaling production. Key financial highlights include:
-•	Turning a profit in Q5.
-•	A healthy balance sheet with total assets of $4.87M and total equity of $4.32M by Q6.
-•	A strong cash position of $1,504,499 and positive operating cash flow of $279,797 in Q6.
-•	A projected Return on Investment (ROI) of 127.68% by the end of Q6, more than doubling the initial $1.5M investment.
-•	Strategic investments in R&D ($2.99M), system improvements ($2.1M), advertising & marketing ($624K), and employee compensation & benefits ($88K).
-Operational Strategies
-•	Manufacturing: Detailed plans for increasing fixed capacity and improving production productivity, leading to reduced average unit production costs over time.
-•	Marketing: Increased advertising budget, internet marketing expenses, and major ad placements to enhance brand awareness.
-•	Sales Channel: Strategic store openings in New York City, Amsterdam, Bangalore, and Rio de Janeiro, along with increased sales and service employees.
-•	Human Resources: Focus on employee compensation, benefits, and training to decrease turnover, improve morale, and increase productivity.
-Anticipated Benefits
-The project anticipates increased reputation with stakeholders, enhanced customer satisfaction, significant revenue growth, improved brand judgment, increased market presence, and improved production efficiency. It also highlights key learnings for optimizing future decisions, such as addressing underinvestment in manufacturing capacity and reassessing advertising expenditure to capture greater market share.
+<b>What is Included in the Dashboard</b>
+Based on the FO Treads Bikes Business Plan and Stockholder Report, the dashboard would likely include the following critical components, allowing for a holistic view of the Marketplace Simulation performance:
+
+<b>Financial Performance</b>
+  - <b>Profitability:</b> Net profit/loss over time (especially aiming to show profit by Q5).
+  - <b>Revenue:</b> Total sales revenue by quarter, broken down by bike segment (Recreation, Speed, Mountain) and specific bike models (e.g., Mountain 3, CF Vector 3).
+
+  - <b>Cash Flow:</b> Beginning and ending cash balances, and cash flow from operating, investing, and financing activities.
+  - <b>Investment & ROI:</b> Tracking of initial investment, total investment in R&D, production capacity, advertising, and the projected Return on Investment (ROI).
+  - <b>Cost Analysis:</b> Average unit production cost, total production cost, and expenses related to advertising, sales force, and human resources.
+  - <b>Balance Sheet Key Figures:</b> Total assets, total equity, and possibly key ratios like Debt-to-Equity.
 
 
+<b>Market Performance:</b>
+  - <b>Market Share:</b> Visualizations of FO Treads Bikes' market share across different quarters, compared to competitors.
+  - <b>Demand & Sales Volume:</b> Units demanded and units sold for each bike segment and model.
+  - <b>Lost Sales:</b> Tracking of lost sales due to capacity issues.
+  - <b>Brand Judgment:</b> Metrics or indicators related to brand perception and strength.
+
+
+<b>Operational Metrics:</b>
+  - <b>Manufacturing Capacity:</b> Available fixed capacity versus operating capacity, and production volume over time.
+  - <b>Production Efficiency:</b> Percentage of lost capacity due to production productivity improvements.
+  - <b>Sales Channel Performance:</b> Sales broken down by different channels (e.g., flagship store, online).
+  - <b>Employee Productivity:</b> Indicators of human resource effectiveness, potentially linked to training and compensation.
+
+
+<b>Strategic Initiatives Progress:</b>
+  - <b>New Product Launches:</b> Status and performance of newly launched bike brands (e.g., Mountain 3, CF Vector 3).
+  - <b>R&D Investment Tracking:</b> How R&D funds translate into new products or technologies.
