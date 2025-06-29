@@ -9,6 +9,7 @@ This repository details the FO Treads Bikes MBA Capstone Project, developed with
 FO Treads Bikes aims to deliver a top-tier, elite, and affordable cycling experience through innovative 3D-printed carbon fiber technology. The core objectives include turning a profit by Q5, increasing market presence, and enhancing brand judgment. The overarching strategy emphasizes balanced growth, market leadership (pioneering 3D printing carbon fiber tech), and excellent customer service, including the establishment of a flagship store in New York City.
 
 
+
 <b>Key Strategic Thrusts & Innovations</b>
 
   - <b>Balanced Growth:</b> Systemic reinvestment in manufacturing capacity and long-term competitive positioning.
@@ -17,8 +18,10 @@ FO Treads Bikes aims to deliver a top-tier, elite, and affordable cycling experi
   - <b>Customer Service:</b> Enhancing direct customer interaction through the New York City flagship store, which significantly increased Recreation bike sales.
 
 
+
 <b>Market Performance and Sales</b>
 The project includes detailed analysis of market share and demand across Recreation, Speed, and Mountain bike segments from Q2 to Q6. Initial market share for FO Treads Bikes was 41% in Q2, shifting to 18% in Q3, with specific demand data for each segment showing varying market positions. Sales revenue and units sold for various bike brands are meticulously tracked, demonstrating significant growth from Q2 to Q3. Projected demand for Q6 was 3,630 units, with projected revenue of $5,357,880.00.
+
 
 
 <b>Financial Health and Investment</b>
@@ -34,6 +37,7 @@ Operational Strategies
   - Marketing: Increased advertising budget, internet marketing expenses, and major ad placements to enhance brand awareness.
   - Sales Channel: Strategic store openings in New York City, Amsterdam, Bangalore, and Rio de Janeiro, along with increased sales and service employees.
   - Human Resources: Focus on employee compensation, benefits, and training to decrease turnover, improve morale, and increase productivity.
+
 
 
 <b>Anticipated Benefits</b>
