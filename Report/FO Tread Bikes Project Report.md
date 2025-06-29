@@ -1,64 +1,38 @@
-<h1>Data Analysis Report</h1>
+<h1>FO Treads Bikes MBA Capstone Project</H1> 
 
-<h3>Objective</h3>
-To determine if a strategic and data-driven approach to business operations and market engagement can lead to sustainable market share growth, optimized financial performance, and overall competitive advantage within a dynamic industry simulation.
-
-<h3>Problem Statement</h3>
-A bicycle manufacturing company operating in a competitive global market needs to make informed strategic decisions across various functions (finance, marketing, operations, human resources) to effectively respond to market demand, counter competitor actions, and achieve long-term profitability and shareholder value, especially when balancing growth with risk mitigation.
+This repository details the FO Treads Bikes MBA Capstone Project, developed within a Marketplace Simulation. It provides a comprehensive overview of the business plan, strategic decisions, market performance, and financial outcomes of FO Treads Bikes, a venture focused on the cycling industry.
 
 
-<h3>Data & Methodology</h3>
-
-  - <b>1. Data Acquisition:</b> Utilized comprehensive datasets from the Marketplace Business Simulation, including:
-
-    - <b>Market Share Data (Q4-Q6):</b> Detailed breakdowns of market share percentages across all companies and specific product segments (Recreation, Mountain, Speed).
-    - <b>Market Demand Data (Q4-Q6):</b> Total market demand and segment-specific demand in units, reflecting market growth and fluctuations.
-    - <b>Financial Reports (Q4-Q6):</b> Income Statements, Balance Sheets, and Cash Flow Statements providing insights into revenue, expenses, profitability, assets, liabilities, and liquidity.
-    - <b>Operational Decisions Data:</b> Records of investments in manufacturing capacity, R&D expenditures (e.g., carbon fiber technology), advertising spend, pricing strategies, and sales force allocations.
-- <b>2. Methodology & Analysis:</b>
-  - <b>Strategic Planning & Execution:</b> Applied core business strategy principles to set long-term objectives and translate them into actionable quarterly decisions.
-  - <b>Market Analysis & Competitive Intelligence:</b> Conducted deep dives into market demand trends, competitor strategies, and market share shifts to identify opportunities and threats.
-  - <b>Financial Analysis & Modeling:</b> Used financial ratios (liquidity, activity, leverage, profitability) and valuation methodologies (e.g., Multiple of Earnings) to assess financial health and project ROI.
-  - <b>Operations & Supply Chain Optimization:</b> Analyzed manufacturing capacity utilization, production costs, and inventory management to identify efficiencies and bottlenecks.
-  - <b>Marketing & Sales Effectiveness:</b> Evaluated advertising ROI, pricing strategies, and sales channel performance to optimize market penetration and brand presence.
-  - <b>Data Interpretation & Visualization:</b> Utilized data to track KPIs, identify correlations between decisions and outcomes, and create clear visuals (charts, tables) for reporting.
-  
+<h1>Project Overview</h1>
+FO Treads Bikes aims to deliver a top-tier, elite, and affordable cycling experience through innovative 3D-printed carbon fiber technology. The core objectives include turning a profit by Q5, increasing market presence, and enhancing brand judgment. The overarching strategy emphasizes balanced growth, market leadership (pioneering 3D printing carbon fiber tech), and excellent customer service, including the establishment of a flagship store in New York City.
 
 
-<h3>Key Findings</h3>
-
-- <b>1. Capacity Investment is Critical for Market Capture:</b> Underinvestment in fixed manufacturing capacity during periods of surging market demand (e.g., Q5 and Q6) directly correlated with a decline in market share and resulted in missed sales opportunities and stockouts, despite overall market growth. Proactive capacity expansion is essential to capitalize on demand.
-- <b>2. Strategic Advertising Amplifies Market Share:</b> Maintaining consistent advertising spend in a rapidly growing and competitive market can lead to a loss of market share. A more aggressive and strategically responsive advertising investment, informed by competitive analysis, is crucial to amplify brand presence and convert demand into sales.
-- <b>3. Innovation and Customer Engagement Drive Value:</b> Pioneering new 3D-printed carbon fiber bike brands significantly differentiated the company, attracted early adopters, and generated substantial demand in key segments (e.g., Mountain bikes). Concurrently, strategic investments in customer touchpoints, like the New York City flagship store, enhanced customer relationships and drove measurable sales growth in relevant segments (e.g., Recreation bikes).
-- <b>4. Strong Financial Health Supports Growth:</b> Despite strategic expenditures leading to temporary cash outflows, the company maintained a healthy balance sheet, strong cash position, and positive operating cash flow, validating its ability to self-fund significant growth initiatives. The project culminated in a robust company valuation and an impressive 127.68% projected ROI, demonstrating effective value creation for shareholders.
-
-
-<h3>REPORTING</h3>
-This section provides access to the detailed analytical outputs, raw data files, and visual representations generated throughout the simulation. It includes:
-
-  - <b>1. Detailed Financial Statements:</b> Income Statements, Balance Sheets, and Cash Flow Statements for Q4, Q5, and Q6.
-  - <b>2. Market Data Reports:</b> Raw data and analyzed tables showing market demand, company-specific demand, and market share percentages for all competitors across quarters.
-  - <b>3. Performance Dashboards:</b> Visual summaries (e.g., line charts for trends, column charts for comparisons, pie charts for distribution) illustrating key financial, operational, and market-related KPIs.
-  - <b>4. Strategic Decision Logs:</b> Documentation of major decisions made each quarter and their direct impact.
-
-<h3></h3>
-<b>ANALYSIS OUTPUT AND CALCULATIONS</b>
-<h3></h3>
+<h1>Key Strategic Thrusts & Innovations</h1>
+•	Balanced Growth: Systemic reinvestment in manufacturing capacity and long-term competitive positioning.
+•	Market Leadership: Pioneering the use of 3D-printed carbon fiber technology for bicycle parts, leading to stronger, lighter, and more economical products.
+•	New Bike Brands: Launch and development of new bike brands like Mountain 3 (Q4), Mountain 3D (Q5), CF Vector 3 (Q6), AERO 3 (Q6), and Mountain 4 (Q6), leveraging advanced 3D-printed carbon fiber technology.
+•	Customer Service: Enhancing direct customer interaction through the New York City flagship store, which significantly increased Recreation bike sales.
 
 
-![Name image](image link in github)
-
-<h3></h3>
-
-![Name image](image link in github)
+<h1>Market Performance and Sales</h1>
+The project includes detailed analysis of market share and demand across Recreation, Speed, and Mountain bike segments from Q2 to Q6. Initial market share for FO Treads Bikes was 41% in Q2, shifting to 18% in Q3, with specific demand data for each segment showing varying market positions. Sales revenue and units sold for various bike brands are meticulously tracked, demonstrating significant growth from Q2 to Q3. Projected demand for Q6 was 3,630 units, with projected revenue of $5,357,880.00.
 
 
-<h3>Implications & Recommendations</h3>
+<h1>Financial Health and Investment</h1>
+The financial strategy focuses on maximizing available cash, seeking venture capital investment, and scaling production. Key financial highlights include:
+•	Turning a profit in Q5.
+•	A healthy balance sheet with total assets of $4.87M and total equity of $4.32M by Q6.
+•	A strong cash position of $1,504,499 and positive operating cash flow of $279,797 in Q6.
+•	A projected Return on Investment (ROI) of 127.68% by the end of Q6, more than doubling the initial $1.5M investment.
+•	Strategic investments in R&D ($2.99M), system improvements ($2.1M), advertising & marketing ($624K), and employee compensation & benefits ($88K).
+Operational Strategies
+•	Manufacturing: Detailed plans for increasing fixed capacity and improving production productivity, leading to reduced average unit production costs over time.
+•	Marketing: Increased advertising budget, internet marketing expenses, and major ad placements to enhance brand awareness.
+•	Sales Channel: Strategic store openings in New York City, Amsterdam, Bangalore, and Rio de Janeiro, along with increased sales and service employees.
+•	Human Resources: Focus on employee compensation, benefits, and training to decrease turnover, improve morale, and increase productivity.
 
-- <b>1. Prioritize Agile Capacity Planning:</b> Continuously monitor market demand forecasts more aggressively and proactively invest in manufacturing capacity ahead of anticipated growth to prevent stockouts and fully capture market opportunities. This ensures alignment with the long-term perspective of building a strong competitive position.
-- <b>2. Dynamic Marketing Budget Allocation:</b> Implement a more flexible and responsive advertising budget, regularly analyzing competitor spend and market responsiveness. Be prepared to increase investment in key periods to amplify brand presence and secure market share, rather than maintaining a static expenditure.
-- <b>3. Sustain Innovation & Customer-Centricity:</b> Continue heavy investment in R&D for next-generation products and maintain strategic customer engagement initiatives (e.g., flagship stores, personalized experiences). These non-financial thrusts are critical differentiators that build brand loyalty, drive demand, and enhance perceived value.
-- <b>4. Leverage Financial Strength for Growth:</b> Utilize the company's strong cash position and robust balance sheet to fund strategic growth initiatives (like capacity expansion and R&D) internally, reducing reliance on external debt or equity, and demonstrating disciplined, value-creating capital allocation.
-  
+
+<h1>Anticipated Benefits</h1>
+The project anticipates increased reputation with stakeholders, enhanced customer satisfaction, significant revenue growth, improved brand judgment, increased market presence, and improved production efficiency. It also highlights key learnings for optimizing future decisions, such as addressing underinvestment in manufacturing capacity and reassessing advertising expenditure to capture greater market share.
 
 
