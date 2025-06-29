@@ -15,6 +15,9 @@
 <h1>Financial Performance</h1>
 
 <b>Profitability</b>
+
+FO Treads Bikes successfully achieved its target of turning a profit by Quarter 5, reaching a net income of over $1 million. However, Quarter 6 saw a return to a net loss, indicating a fluctuating profitability trend.
+
 ![Profitability](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Profitability.png)
 
 <h1></h1>
