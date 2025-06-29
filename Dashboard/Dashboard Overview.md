@@ -7,6 +7,8 @@ A dashboard, in the context of the FO Treads Bikes MBA Capstone Project, is a vi
 
 <h1>Dashboard Content</h1>
 
+The dashboard includes the following critical components, allowing for a holistic view of the Marketplace Simulation performance:
+
   - [<b>Financial Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#financial-performance)
   - [<b>Market Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#market-performance)
   - [<b>Operational Metrics</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#operational-metrics)
@@ -15,8 +17,6 @@ A dashboard, in the context of the FO Treads Bikes MBA Capstone Project, is a vi
   
 <h1></h1>
 
-<b>What is Included in the Dashboard</b>
-The dashboard includes the following critical components, allowing for a holistic view of the Marketplace Simulation performance:
 
 [<b>Financial Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#financial-performance)
 
