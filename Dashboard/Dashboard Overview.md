@@ -34,7 +34,11 @@ The dashboard includes the following critical components, allowing for a holisti
   - <b>Employee Productivity:</b> Indicators of human resource effectiveness, potentially linked to training and compensation.
 
 
-<b>Strategic Initiatives Progress:</b>
+[<b>Strategic Initiatives Progress:</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#strategic-initiative-progress)
 
   - <b>New Product Launches:</b> Status and performance of newly launched bike brands (e.g., Mountain 3, CF Vector 3).
   - <b>R&D Investment Tracking:</b> How R&D funds translate into new products or technologies.
+
+[<b>Balanced Scorecard:</b>]
+
+- <b>Total Performance:</b> 
