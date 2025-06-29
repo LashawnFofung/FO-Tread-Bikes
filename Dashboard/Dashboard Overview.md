@@ -18,7 +18,7 @@ The dashboard includes the following critical components, allowing for a holisti
 <h1></h1>
 
 
-[<b>Financial Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#financial-performance)
+[<b>Financial Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Financial%20Performance.md)
 
   - <b>Profitability:</b> Net profit/loss over time 
   - <b>Revenue:</b> Total sales revenue by quarter, broken down by bike segment (Recreation, Speed, Mountain) and specific bike models (e.g., Mountain 3, CF Vector 3).
