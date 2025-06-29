@@ -26,7 +26,7 @@ The dashboard includes the following critical components, allowing for a holisti
   - <b>Brand Judgment:</b> Metrics or indicators related to brand perception and strength.
 
 
-<b>Operational Metrics:</b>
+[<b>Operational Metrics:</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#operational-metrics)
 
   - <b>Manufacturing Capacity:</b> Available fixed capacity versus operating capacity, and production volume over time.
   - <b>Production Efficiency:</b> Percentage of lost capacity due to production productivity improvements.
