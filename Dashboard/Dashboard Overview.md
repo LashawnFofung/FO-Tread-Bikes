@@ -5,6 +5,16 @@
 <b>Description and Contents</b>
 A dashboard, in the context of the FO Treads Bikes MBA Capstone Project, is a visual display of key business metrics, performance indicators, and data trends, designed to provide a comprehensive and real-time overview of the company's health and progress. It serves as a centralized hub for stakeholders—such as the project team, instructors, or hypothetical investors—to quickly grasp the state of the business, identify areas of success, and pinpoint challenges.
 
+<h1>Dashboard Content</h1>
+
+  - [<b>Financial Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#financial-performance)
+  - [<b>Market Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#market-performance)
+  - [<b>Operational Metrics</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#operational-metrics)
+  - [<b>Strategic Initiatives Progress</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#strategic-initiative-progress)
+  - [<b>Balanced Scorecard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#balanced-scorecard)
+  
+
+
 <b>What is Included in the Dashboard</b>
 The dashboard includes the following critical components, allowing for a holistic view of the Marketplace Simulation performance:
 
