@@ -66,5 +66,5 @@ The dashboard includes the following critical components, allowing for a holisti
 
 - <b>Total Performance</b> 
 
-[<b>Balanced Scorecard Dashboard</b>]()
+[<b>Balanced Scorecard Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Balanced%20Scorecard.md)
 
