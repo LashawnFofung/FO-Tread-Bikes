@@ -20,17 +20,21 @@ FO Treads Bikes successfully achieved its target of turning a profit by Quarter 
 
 ![Profitability](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Profitability%20(Profit%20%3A%20Loss%20Over%20Time).png)
 
+<img src="https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Profitability%20(Profit%20%3A%20Loss%20Over%20Time).png" width="600" alt="Profitability">
+
 
 <b>Revenue</b>
 
 FO Tread Bikes demonstrated consistent and significant quarter-over-quarter revenue growth, starting from $0 in Quarter 1 and reaching over $4.6 million by Quarter 6, showcasing strong sales expansion.
 
-![Revenue](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Revenue%20(Total%20Sales%20Revenue%20by%20Quarter).png)
+
+<img src="https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Revenue%20(Total%20Sales%20Revenue%20by%20Quarter).png" width="600" alt="Revenue">
 
 
 <b>Research And Development (R&D) Investment</b>
 
-![Research And Development (R&D) Investment](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Research%20and%20Development%20(R%26D)%20Investment.png)
+
+<img src="https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Research%20and%20Development%20(R%26D)%20Investment.png" width="600" alt="R&D Investment">
 
 <h1></h1>
 
