@@ -18,7 +18,7 @@ The dashboard includes the following critical components, allowing for a holisti
 <h1></h1>
 
 
-[<h1>Financial Performance</h1>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Financial%20Performance.md)
+<h1>Financial Performance</h1>
 
   - <b>Profitability:</b> Net profit/loss over time 
   - <b>Revenue:</b> Total sales revenue by quarter, broken down by bike segment (Recreation, Speed, Mountain) and specific bike models (e.g., Mountain 3, CF Vector 3).
@@ -26,7 +26,10 @@ The dashboard includes the following critical components, allowing for a holisti
   - <b>Investment & ROI:</b> Tracking of initial investment, total investment in R&D, production capacity, advertising, and the projected Return on Investment (ROI).
   - <b>Cost Analysis:</b> Average unit production cost, total production cost, and expenses related to advertising, sales force, and human resources.
   - <b>Balance Sheet Key Figures:</b> Total assets, total equity, and possibly key ratios like Debt-to-Equity.
+    
+[<b>Financial Performance Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Financial%20Performance.md)
 
+<h1></h1>
 
 [<h1>Market Performance</h1>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Market%20Performance.md)
 
