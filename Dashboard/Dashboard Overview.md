@@ -38,7 +38,7 @@ The dashboard includes the following critical components, allowing for a holisti
   - <b>Lost Sales:</b> Tracking of lost sales due to capacity issues.
   - <b>Brand Judgment:</b> Metrics or indicators related to brand perception and strength.
 
-[<b>Market Performance Dashboard</b>(https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Market%20Performance.md)
+[<b>Market Performance Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Market%20Performance.md)
 
 <h1></h1>
 
