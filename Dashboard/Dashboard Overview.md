@@ -18,7 +18,7 @@ The dashboard includes the following critical components, allowing for a holisti
   - <b>Balance Sheet Key Figures:</b> Total assets, total equity, and possibly key ratios like Debt-to-Equity.
 
 
-<b>Market Performance:</b>
+[<b>Market Performance:</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#market-performance)
 
   - <b>Market Share:</b> Visualizations of FO Treads Bikes' market share across different quarters, compared to competitors.
   - <b>Demand & Sales Volume:</b> Units demanded and units sold for each bike segment and model.
