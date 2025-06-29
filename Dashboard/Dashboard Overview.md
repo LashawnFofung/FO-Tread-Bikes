@@ -11,7 +11,7 @@ The dashboard includes the following critical components, allowing for a holisti
 
   - [<b>Financial Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard%20Overview.md#financial-performance)
   - [<b>Market Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard%20Overview.md#market-performance)
-  - [<b>Operational Metrics</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#operational-metrics)
+  - [<b>Operational Metrics</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard%20Overview.md#operational-metrics)
   - [<b>Strategic Initiatives Progress</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#strategic-initiative-progress)
   - [<b>Balanced Scorecard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#balanced-scorecard)
   
