@@ -31,6 +31,23 @@ By tracking these diverse indicators, the Balanced Scorecard helps FO Treads Bik
 
 ![Chart of Combined Balanced Scorecard Q2 to Q6](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Chart%20Comparison%20Balanced%20Scorecard%20with%20Industry%20Averages%20Q2%20to%20Q6.png)
 
+<b>Quarterly Performance (Q2 to Q6) vs. Industry Average:</b>
+
+The quarter-by-quarter comparison reveals dynamic trends and areas of competitive advantage for FO Treads Bikes:
+  - <b>Total Performance:</b> FO Treads Bikes' total performance shows significant and consistent improvement, rising from 1.282 in Q2 to 12.487 in Q6. While initially below the industry average in Q2-Q5, it closes the gap significantly by Q6, nearing the industry average (16.647) and demonstrating strong growth momentum.
+  - <b>Financial Performance:</b> The company exhibits outstanding financial growth, rapidly increasing from 8.626 in Q2 to 47.201 in Q6. It consistently outperforms the industry average from Q4 onwards, indicating highly effective financial strategies.
+  - <b>Market Performance:</b> This is an area where FO Treads Bikes' performance (0.302 in Q2 to 0.099 in Q6) generally declines and falls below the industry average from Q4. This aligns with the cumulative results, highlighting a need to re-evaluate market penetration and share strategies.
+  - <b>Marketing Effectiveness:</b> While showing improvement over time (0.713 in Q2 to 0.833 in Q6), FO Treads Bikes starts slightly above the industry average but ends slightly below or very close by Q6, suggesting the need for continuous optimization to maintain a competitive edge.
+  - <b>Investment in Future:</b> FO Treads Bikes consistently invests heavily, maintaining a higher score than the industry average in most quarters, which aligns with its long-term strategic focus on innovation and growth.
+  - <b>Wealth:</b> FO Treads Bikes' wealth indicator fluctuates, generally below the industry average, which could be attributed to strategic reinvestment of profits back into the company.
+  - <b>Human Resource Management:</b> Consistent improvement from 0.570 to 0.894, surpassing the industry average from Q4, indicates successful HR initiatives.
+  - <b>Asset Management:</b> Displays remarkable improvement, particularly from Q4, significantly outperforming the industry average and reflecting highly efficient asset utilization.
+  - <b>Manufacturing Productivity:</b> Shows strong and consistent improvement (0.684 to 0.806), generally staying above the industry average, underscoring efficient production processes.
+  - <b>Financial Risk:</b> Maintained at a perfect 1.000 throughout, indicating stable financial health.
+  - <b>Reputation:</b> Consistently improves from 0.589 to 0.773, generally staying above the industry average, demonstrating effective brand building and stakeholder relations.
+
+
+
 <h1></h1>
 
 ![Cumulative Balanced Scorecard Q6](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Cumulative%20Balanced%20Scorecard%20Q6%20PNG.png)
