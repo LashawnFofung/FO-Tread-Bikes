@@ -18,7 +18,7 @@ The dashboard includes the following critical components, allowing for a holisti
 <h1></h1>
 
 
-[<b>Financial Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Financial%20Performance.md)
+[<h1>Financial Performance</h1>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Financial%20Performance.md)
 
   - <b>Profitability:</b> Net profit/loss over time 
   - <b>Revenue:</b> Total sales revenue by quarter, broken down by bike segment (Recreation, Speed, Mountain) and specific bike models (e.g., Mountain 3, CF Vector 3).
@@ -28,7 +28,7 @@ The dashboard includes the following critical components, allowing for a holisti
   - <b>Balance Sheet Key Figures:</b> Total assets, total equity, and possibly key ratios like Debt-to-Equity.
 
 
-[<b>Market Performance:</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#market-performance)
+[<h1>Market Performance:</h1>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#market-performance)
 
   - <b>Market Share:</b> Visualizations of FO Treads Bikes' market share across different quarters, compared to competitors.
   - <b>Demand & Sales Volume:</b> Units demanded and units sold for each bike segment and model.
@@ -36,7 +36,7 @@ The dashboard includes the following critical components, allowing for a holisti
   - <b>Brand Judgment:</b> Metrics or indicators related to brand perception and strength.
 
 
-[<b>Operational Metrics:</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#operational-metrics)
+[<h1>Operational Metrics:</h1>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#operational-metrics)
 
   - <b>Manufacturing Capacity:</b> Available fixed capacity versus operating capacity, and production volume over time.
   - <b>Production Efficiency:</b> Percentage of lost capacity due to production productivity improvements.
@@ -44,11 +44,11 @@ The dashboard includes the following critical components, allowing for a holisti
   - <b>Employee Productivity:</b> Indicators of human resource effectiveness, potentially linked to training and compensation.
 
 
-[<b>Strategic Initiatives Progress:</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#strategic-initiative-progress)
+[<h1>Strategic Initiatives Progress:</h1>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#strategic-initiative-progress)
 
   - <b>New Product Launches:</b> Status and performance of newly launched bike brands (e.g., Mountain 3, CF Vector 3).
   - <b>R&D Investment Tracking:</b> How R&D funds translate into new products or technologies.
 
-[<b>Balanced Scorecard:</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#balanced-scorecard)
+[<h1>Balanced Scorecard:</h1>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#balanced-scorecard)
 
 - <b>Total Performance</b> 
