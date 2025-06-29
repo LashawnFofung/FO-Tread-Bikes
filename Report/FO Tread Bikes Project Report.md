@@ -52,6 +52,22 @@ The quarter-by-quarter comparison reveals dynamic trends and areas of competitiv
 
 ![Cumulative Balanced Scorecard Q6](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Cumulative%20Balanced%20Scorecard%20Q6%20PNG.png)
 
+
+<b>Cumulative Results for Quarter 6:</b>
+
+FO Treads Bikes demonstrates strong overall performance cumulatively up to Q6, often exceeding or performing at the maximum levels within the industry range for several critical indicators:
+
+  - <b>Total Performance:</b> At 7.770, FO Treads Bikes is significantly above the average (5.840) and well within the top performance range, indicating robust overall strategic execution.
+  - <b>Financial Performance:</b> Achieving a maximum cumulative score of 39.006, FO Treads Bikes shows exceptional financial health and effectiveness.
+  - <b>Investment in Future:</b> FO Treads Bikes hit the maximum cumulative score (6.385), underscoring a strong commitment and success in long-term strategic investments.
+  - <b>Manufacturing Productivity:</b> Reaching the maximum cumulative score of 0.706, the company showcases highly efficient and productive manufacturing operations.
+  - <b>Asset Management:</b> Also achieving the maximum cumulative score (0.912), indicating excellent utilization and management of company assets.
+  - <b>Human Resource Management:</b> With a score of 0.804, FO Treads Bikes is above average, suggesting effective HR strategies.
+  - <b>Reputation:</b> A cumulative score of 0.697 puts FO Treads Bikes near the maximum, reflecting a strong and positive brand perception.
+  - <b>Financial Risk:</b> Consistently at 1.000, indicating no cumulative financial risk concerns.
+  - <b>Areas for Review:</b> While strong overall, Cumulative Market Performance (0.164) and Cumulative Marketing Effectiveness (0.738) are slightly below or at the minimum of the observed range, suggesting these areas might warrant further strategic focus despite the overall strong showing. Cumulative Wealth (0.713) is at the minimum, indicating a potential area for wealth generation optimization, although this could be a strategic choice due to reinvestment.
+
+
 <h1></h1>
 
 <b>Key Strategic Thrusts & Innovations</b>
