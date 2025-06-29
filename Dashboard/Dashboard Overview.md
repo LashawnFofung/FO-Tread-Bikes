@@ -8,7 +8,7 @@ A dashboard, in the context of the FO Treads Bikes MBA Capstone Project, is a vi
 <b>What is Included in the Dashboard</b>
 The dashboard includes the following critical components, allowing for a holistic view of the Marketplace Simulation performance:
 
-<b>Financial Performance</b>
+[<b>Financial Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#financial-performance)
 
   - <b>Profitability:</b> Net profit/loss over time (especially aiming to show profit by Q5).
   - <b>Revenue:</b> Total sales revenue by quarter, broken down by bike segment (Recreation, Speed, Mountain) and specific bike models (e.g., Mountain 3, CF Vector 3).
