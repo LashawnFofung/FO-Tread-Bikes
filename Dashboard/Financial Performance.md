@@ -1,14 +1,5 @@
 <img src="https://github.com/LashawnFofung/FO-Tread-Bikes/raw/main/FO%20Tread%20Bikes%20Logo%20PNG.png" width="200" alt="FO Tread Bikes Logo">
 
-<h1>Dashboard Content</h1>
-
-  - [<b>Financial Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#financial-performance)
-  - [<b>Market Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#market-performance)
-  - [<b>Operational Metrics</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#operational-metrics)
-  - [<b>Strategic Initiatives Progress</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#strategic-initiative-progress)
-  - [<b>Balanced Scorecard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#balanced-scorecard)
-  
- 
 
 <h1></h1>
 
