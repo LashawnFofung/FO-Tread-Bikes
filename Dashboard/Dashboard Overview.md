@@ -10,7 +10,7 @@ The dashboard includes the following critical components, allowing for a holisti
 
 [<b>Financial Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#financial-performance)
 
-  - <b>Profitability:</b> Net profit/loss over time (especially aiming to show profit by Q5).
+  - <b>Profitability:</b> Net profit/loss over time 
   - <b>Revenue:</b> Total sales revenue by quarter, broken down by bike segment (Recreation, Speed, Mountain) and specific bike models (e.g., Mountain 3, CF Vector 3).
   - <b>Cash Flow:</b> Beginning and ending cash balances, and cash flow from operating, investing, and financing activities.
   - <b>Investment & ROI:</b> Tracking of initial investment, total investment in R&D, production capacity, advertising, and the projected Return on Investment (ROI).
