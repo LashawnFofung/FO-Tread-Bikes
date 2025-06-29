@@ -32,6 +32,8 @@ FO Tread Bikes demonstrated consistent and significant quarter-over-quarter reve
 
 <b>Research And Development (R&D) Investment</b>
 
+FO Treads Bikes made substantial and increasing investments in R&D, with significant outlays in Quarter 4 and Quarter 6, totaling over $2.3 million in the final quarter. This reflects a strong commitment to future innovation.
+
 
 <img src="https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Research%20and%20Development%20(R%26D)%20Investment.png" width="600" alt="R&D Investment">
 
