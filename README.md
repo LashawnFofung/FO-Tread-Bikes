@@ -10,6 +10,14 @@ The WGU MBA Capstone facilated through [Marketplace Simulations](https://www.mar
 
 <h2></h2>
 
+<h2>Artifacts</h2>
+
+  - [<b>Report</b>]()
+  - [<b>Dashboard</b>]()
+  - [<b>Simulation Trophies</b>]()
+    
+<h2></h2>
+
 <h2>Project YouTube </h2>
 
 - [Business Plan Presentation](https://youtu.be/fPxMes6A5BI)
