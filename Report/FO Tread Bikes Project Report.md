@@ -9,6 +9,10 @@ This repository details the FO Treads Bikes MBA Capstone Project, developed with
 FO Treads Bikes aims to deliver a top-tier, elite, and affordable cycling experience through innovative 3D-printed carbon fiber technology. The core objectives include turning a profit by Q5, increasing market presence, and enhancing brand judgment. The overarching strategy emphasizes balanced growth, market leadership (pioneering 3D printing carbon fiber tech), and excellent customer service, including the establishment of a flagship store in New York City.
 
 
+<b>Balanced Scorecard</b>
+
+![Image Name](link to image)
+
 
 <b>Key Strategic Thrusts & Innovations</b>
 
