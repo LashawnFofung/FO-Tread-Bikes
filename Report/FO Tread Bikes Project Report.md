@@ -53,7 +53,7 @@ The quarter-by-quarter comparison reveals dynamic trends and areas of competitiv
 ![Cumulative Balanced Scorecard Q6](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Cumulative%20Balanced%20Scorecard%20Q6%20PNG.png)
 
 
-<h2>Cumulative Results for Quarter 6:</h2>
+<b>Cumulative Results for Quarter 6:</b>
 
 FO Treads Bikes demonstrates strong overall performance cumulatively up to Q6, often exceeding or performing at the maximum levels within the industry range for several critical indicators:
 
