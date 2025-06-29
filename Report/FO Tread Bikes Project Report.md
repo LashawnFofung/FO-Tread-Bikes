@@ -33,6 +33,10 @@ By tracking these diverse indicators, the Balanced Scorecard helps FO Treads Bik
 
 <h1></h1>
 
+![Cumulative Balanced Scorecard Q6](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Cumulative%20Balanced%20Scorecard%20Q6%20PNG.png)
+
+<h1></h1>
+
 <b>Key Strategic Thrusts & Innovations</b>
 
   - <b>Balanced Growth:</b> Systemic reinvestment in manufacturing capacity and long-term competitive positioning.
