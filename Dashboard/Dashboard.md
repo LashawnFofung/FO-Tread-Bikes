@@ -21,6 +21,9 @@ FO Treads Bikes successfully achieved its target of turning a profit by Quarter 
 ![Profitability](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Profitability%20(Profit%20%3A%20Loss%20Over%20Time).png)
 
 
+<b>Revenue</b>
+
+![Revenue](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Revenue%20(Total%20Sales%20Revenue%20by%20Quarter).png)
 
 <h1></h1>
 
