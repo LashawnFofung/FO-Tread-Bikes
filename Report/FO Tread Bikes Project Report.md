@@ -13,6 +13,20 @@ FO Treads Bikes aims to deliver a top-tier, elite, and affordable cycling experi
 <h1></h1>
 
 <b>Balanced Scorecard</b>
+
+The Balanced Scorecard (BSC) for FO Treads Bikes serves as a strategic performance management framework, offering a holistic view beyond traditional financial metrics. It assesses the company's performance across several key perspectives to ensure long-term sustainability and strategic alignment.
+
+For FO Treads Bikes, the Balanced Scorecard includes indicators across multiple dimensions, providing a comprehensive evaluation of the company's performance from Q2 to Q6, often compared against industry averages. Key indicators tracked within our Balanced Scorecard likely include:
+
+  - <b>Financial Performance:</b> Assessing profitability, revenue growth, cost management, and overall financial health.
+  - <b>Customer/Market Performance:</b> Evaluating market share, brand judgment, and sales volume across different bike segments (Recreation, Speed, Mountain).
+  - <b>Internal Business Processes (Manufacturing Productivity & Asset Management):</b> Measuring efficiency in production, capacity utilization, and effective use of company assets.
+  - <b>Learning and Growth (Human Resource Management & Investment in Future):</b> Focusing on employee development, compensation, morale, and strategic investments in R&D and system improvements.
+  - <b>Financial Risk:</b> Monitoring the company's exposure to financial risks.
+  - <b>Reputation:</b> Tracking how the company is perceived by stakeholders.
+By tracking these diverse indicators, the Balanced Scorecard helps FO Treads Bikes ensure that short-term operational successes are aligned with long-term strategic objectives, driving balanced growth and sustained market leadership.
+
+
 <h1></h1>
 
 ![Chart of Combined Balanced Scorecard Q2 to Q6](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Chart%20Comparison%20Balanced%20Scorecard%20with%20Industry%20Averages%20Q2%20to%20Q6.png)
