@@ -14,6 +14,9 @@
 
 <h1>Financial Performance</h1>
 
+<b>Profitability</b>
+![Profitability](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Profitability.png)
+
 <h1></h1>
 
 <h1>Market Performance</h1>
