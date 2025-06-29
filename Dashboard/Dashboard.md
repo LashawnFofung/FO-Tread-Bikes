@@ -4,11 +4,11 @@
 
   - <b>Financial Performance</b>
   - [<b>Market Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#market-performance)
+  - <b>Operational Metrics</b>
+  - <b>Strategic Initiatives Progress</b>
   - [<b>Balanced Scorecard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#balanced-scorecard)
-  - <b></b>
-  - <b></b>
-  - <b></b>
-  - <b></b>
+  
+ 
 
 <h1></h1>
 
@@ -28,8 +28,13 @@
 
 <h1></h1>
 
+<h1>Operational Metrics</h1>
 
+<h1></h1>
 
+<h1>Strategic Initiative Progress</h1>
+
+<h1></h1>
 <h1>Balanced Scorecard</h1>
 
 <b>Comparison of Combined Balanced Scorecard - Total Performance Q2 to Q6 with Industry Average</b>
