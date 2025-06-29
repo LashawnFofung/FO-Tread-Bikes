@@ -41,4 +41,4 @@ The dashboard includes the following critical components, allowing for a holisti
 
 [<b>Balanced Scorecard:</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#balanced-scorecard)
 
-- <b>Total Performance:</b> 
+- <b>Total Performance</b> 
