@@ -49,6 +49,9 @@ The dashboard includes the following critical components, allowing for a holisti
   - <b>Sales Channel Performance:</b> Sales broken down by different channels (e.g., flagship store).
   - <b>Employee Productivity:</b> Indicators of human resource effectiveness, potentially linked to training and compensation.
 
+[<b>Operational Metrics Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Operational%20Metrics.md)
+
+<h1></h1>
 
 [<h1>Strategic Initiatives Progress</h1>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#strategic-initiative-progress)
 
