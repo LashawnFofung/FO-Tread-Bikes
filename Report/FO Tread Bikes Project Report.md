@@ -1,5 +1,7 @@
 <h1>FO Treads Bikes MBA Capstone Project</H1> 
 
+![FO Tread Bikes Logo](link of image)
+
 This repository details the FO Treads Bikes MBA Capstone Project, developed within a Marketplace Simulation. It provides a comprehensive overview of the business plan, strategic decisions, market performance, and financial outcomes of FO Treads Bikes, a venture focused on the cycling industry.
 
 
