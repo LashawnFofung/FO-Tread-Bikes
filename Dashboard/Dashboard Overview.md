@@ -6,7 +6,7 @@
 A dashboard, in the context of the FO Treads Bikes MBA Capstone Project, is a visual display of key business metrics, performance indicators, and data trends, designed to provide a comprehensive and real-time overview of the company's health and progress. It serves as a centralized hub for stakeholders—such as the project team, instructors, or hypothetical investors—to quickly grasp the state of the business, identify areas of success, and pinpoint challenges.
 
 <b>What is Included in the Dashboard</b>
-Based on the FO Treads Bikes Business Plan and Stockholder Report, the dashboard would likely include the following critical components, allowing for a holistic view of the Marketplace Simulation performance:
+The dashboard includes the following critical components, allowing for a holistic view of the Marketplace Simulation performance:
 
 <b>Financial Performance</b>
 
@@ -30,7 +30,7 @@ Based on the FO Treads Bikes Business Plan and Stockholder Report, the dashboard
 
   - <b>Manufacturing Capacity:</b> Available fixed capacity versus operating capacity, and production volume over time.
   - <b>Production Efficiency:</b> Percentage of lost capacity due to production productivity improvements.
-  - <b>Sales Channel Performance:</b> Sales broken down by different channels (e.g., flagship store, online).
+  - <b>Sales Channel Performance:</b> Sales broken down by different channels (e.g., flagship store).
   - <b>Employee Productivity:</b> Indicators of human resource effectiveness, potentially linked to training and compensation.
 
 
