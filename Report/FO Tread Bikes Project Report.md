@@ -6,13 +6,13 @@ This repository details the FO Treads Bikes MBA Capstone Project, developed with
 
 <h1></h1>
 
-<b>Project Overview</b>
+<h2>Project Overview</h2>
 
 FO Treads Bikes aims to deliver a top-tier, elite, and affordable cycling experience through innovative 3D-printed carbon fiber technology. The core objectives include turning a profit by Q5, increasing market presence, and enhancing brand judgment. The overarching strategy emphasizes balanced growth, market leadership (pioneering 3D printing carbon fiber tech), and excellent customer service, including the establishment of a flagship store in New York City.
 
 <h1></h1>
 
-<b>Balanced Scorecard</b>
+<h2>Balanced Scorecard</h2>
 
 The Balanced Scorecard (BSC) for FO Treads Bikes serves as a strategic performance management framework, offering a holistic view beyond traditional financial metrics. It assesses the company's performance across several key perspectives to ensure long-term sustainability and strategic alignment.
 
@@ -53,7 +53,7 @@ The quarter-by-quarter comparison reveals dynamic trends and areas of competitiv
 ![Cumulative Balanced Scorecard Q6](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Cumulative%20Balanced%20Scorecard%20Q6%20PNG.png)
 
 
-<b>Cumulative Results for Quarter 6:</b>
+<h2>Cumulative Results for Quarter 6:</h2>
 
 FO Treads Bikes demonstrates strong overall performance cumulatively up to Q6, often exceeding or performing at the maximum levels within the industry range for several critical indicators:
 
@@ -73,7 +73,7 @@ In conclusion, FO Treads Bikes has demonstrated exceptional financial performanc
 
 <h1></h1>
 
-<b>Key Strategic Thrusts & Innovations</b>
+<h2>Key Strategic Thrusts & Innovations</h2>
 
   - <b>Balanced Growth:</b> Systemic reinvestment in manufacturing capacity and long-term competitive positioning.
   - <b>Market Leadership:</b> Pioneering the use of 3D-printed carbon fiber technology for bicycle parts, leading to stronger, lighter, and more economical products.
@@ -83,7 +83,7 @@ In conclusion, FO Treads Bikes has demonstrated exceptional financial performanc
 <h1></h1>
 
 
-<b>Market Performance and Sales</b>
+<h2>Market Performance and Sales</h2>
 
 The project includes detailed analysis of market share and demand across Recreation, Speed, and Mountain bike segments from Q2 to Q6. Initial market share for FO Treads Bikes was 41% in Q2, shifting to 18% in Q3, with specific demand data for each segment showing varying market positions. Sales revenue and units sold for various bike brands are meticulously tracked, demonstrating significant growth from Q2 to Q3. Projected demand for Q6 was 3,630 units, with projected revenue of $5,357,880.00.
 
@@ -92,7 +92,7 @@ The project includes detailed analysis of market share and demand across Recreat
 
 <h1></h1>
 
-<b>Financial Health and Investment</b>
+<h2>Financial Health and Investment</h2>
 
 The financial strategy focuses on maximizing available cash, seeking venture capital investment, and scaling production. Key financial highlights include:
 
@@ -109,7 +109,7 @@ Operational Strategies
 
 <h1></h1>
 
-<b>Anticipated Benefits</b>
+<h2>Anticipated Benefits</h2>
 
 The project anticipates increased reputation with stakeholders, enhanced customer satisfaction, significant revenue growth, improved brand judgment, increased market presence, and improved production efficiency. It also highlights key learnings for optimizing future decisions, such as addressing underinvestment in manufacturing capacity and reassessing advertising expenditure to capture greater market share.
 
