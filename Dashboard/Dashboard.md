@@ -2,7 +2,7 @@
 
 <h1>Dashboard Content</h1>
 
-  - <b>Financial Performance</b>
+  - [<b>Financial Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#financial-performance)
   - [<b>Market Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#market-performance)
   - <b>Operational Metrics</b>
   - <b>Strategic Initiatives Progress</b>
