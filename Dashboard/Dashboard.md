@@ -3,7 +3,7 @@
 <h1>Dashboard Content</h1>
 
   - <b>Financial Performance</b>
-  - [<b>Market Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#market-share)
+  - [<b>Market Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#market-performance)
   - [<b>Balanced Scorecard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#balanced-scorecard)
   - <b></b>
   - <b></b>
