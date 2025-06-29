@@ -11,7 +11,7 @@ FO Treads Bikes aims to deliver a top-tier, elite, and affordable cycling experi
 
 <b>Balanced Scorecard</b>
 
-![Image Name](link to image)
+![Chart of Combined Balanced Scorecard Q2 to Q6](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Chart%20Comparison%20Balanced%20Scorecard%20with%20Industry%20Averages%20Q2%20to%20Q6.png)
 
 
 <b>Key Strategic Thrusts & Innovations</b>
