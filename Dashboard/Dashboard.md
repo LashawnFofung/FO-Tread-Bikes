@@ -2,7 +2,7 @@
 
 <h1>Dashboard Content</h1>h1>
 
-  - <b></b>
+  - [<b>Market Share</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#market-share)
   - <b></b>
   - <b></b>
   - <b></b>
