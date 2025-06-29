@@ -23,7 +23,7 @@ FO Treads Bikes successfully achieved its target of turning a profit by Quarter 
 
 <b>Revenue</b>
 
-The company demonstrated consistent and significant quarter-over-quarter revenue growth, starting from $0 in Quarter 1 and reaching over $4.6 million by Quarter 6, showcasing strong sales expansion.
+FO Tread Bikes demonstrated consistent and significant quarter-over-quarter revenue growth, starting from $0 in Quarter 1 and reaching over $4.6 million by Quarter 6, showcasing strong sales expansion.
 
 ![Revenue](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Revenue%20(Total%20Sales%20Revenue%20by%20Quarter).png)
 
