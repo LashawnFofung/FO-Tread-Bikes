@@ -14,7 +14,7 @@ The WGU MBA Capstone facilated through [Marketplace Simulations](https://www.mar
 
   - [<b>Report</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Report/FO%20Tread%20Bikes%20Project%20Report.md)
   - [<b>Dashboard</b>]()
-  - [<b>Simulation Trophies</b>]()
+  - [<b>Simulation Trophies</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Simulation%20Trophies/FO%20Tread%20Bikes%20Marketplace%20Simulation%20Trophies.png)
     
 <h2></h2>
 
