@@ -27,6 +27,11 @@ FO Tread Bikes demonstrated consistent and significant quarter-over-quarter reve
 
 ![Revenue](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Revenue%20(Total%20Sales%20Revenue%20by%20Quarter).png)
 
+
+<b>Research And Development (R&D) Investment</b>
+
+![Research And Development (R&D) Investment](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Research%20and%20Development%20(R%26D)%20Investment.png)
+
 <h1></h1>
 
 <h1>Market Performance</h1>
