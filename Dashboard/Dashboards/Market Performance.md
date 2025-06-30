@@ -5,6 +5,9 @@
 
 <h1>Market Performance</h1>
 
+<h3>Market Share</h3>
+
+
 <b>Comparison of Total Market Share Q2 and Q3</b>
 
 ![Q2 and Q3 Total Market Share](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Q2%20and%20Q3%20Total%20Market%20Share%20PNG.png)
