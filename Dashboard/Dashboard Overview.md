@@ -20,7 +20,13 @@ The dashboard includes the following critical components, allowing for a holisti
 
 <h1>Financial Performance</h1>
 
-  - <b>Profitability:</b> Net profit/loss over time 
+  - <b>Profitability:</b> Net profit/Loss Over Time
+    -   <b>Objective:</b> To assess the company's financial success and efficiency in generating earnings over specific periods.
+    -   <b>Value Source:</b> Income Statement
+    -   <b>Metric:</b> Net Income (or Net Profit, Net Earnings)
+    -   <b>Formula:</b> Net Income = Total Revenue - Cost of Goods Sold - Operating Expenses - Interest Expense - Taxes
+
+You would track this value for each quarter (e.g., Q4 Net Income, Q5 Net Income, Q6 Net Income).
   - <b>Revenue:</b> Total sales revenue by quarter, broken down by bike segment (Recreation, Speed, Mountain) and specific bike models (e.g., Mountain 3, CF Vector 3).
   - <b>Cash Flow:</b> Beginning and ending cash balances, and cash flow from operating, investing, and financing activities.
   - <b>Investment & ROI:</b> Tracking of initial investment, total investment in R&D, production capacity, advertising, and the projected Return on Investment (ROI).
