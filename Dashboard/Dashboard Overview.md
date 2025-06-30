@@ -122,4 +122,16 @@ View the project's [<b>Balanced Scorecard Dashboard</b>](https://github.com/Lash
 
 This section includes the following metrics:
 
-- <b>Total Performance</b> 
+- <b>Total Performance vs. Industry Average</b>
+  - <b>Objective:</b> To assess FO Tread Bikes' overall performance across key strategic dimensions (e.g., Financial, Customer, Internal Processes, Learning & Growth) by comparing its combined Balanced Scorecard total performance against the industry average over time. This helps benchmark the company's holistic health and identify areas of strength or weakness relative to competitors.
+  - <b>Value Source:</b> Balanced Scorecard Reports (from the simulation data), Industry Performance Reports (from the simulation data).
+  - <b>Metrics & Formulas:</b>
+
+      - FO Tread Bikes Total Balanced Scorecard Performance (for a period): Direct data from the company's Balanced Scorecard report.
+  
+      - Industry Average Total Balanced Scorecard Performance (for a period): Direct data from industry benchmark reports.
+  
+      - Performance Gap = FO Tread Bikes Total Score - Industry Average Score (Indicates how far above or below the industry average the company performs).
+
+  - <b>Data Analysis & Visualization (Microsoft Excel):</b> Total Balanced Scorecard performance scores for FO Tread Bikes and the corresponding industry averages were extracted for each quarter (Q2-Q6). This data was then analyzed to identify performance trends and the competitive gap. It would typically be visualized using a grouped bar chart or a line chart in Microsoft Excel, showing FO Tread Bikes' total performance alongside the industry average for each quarter. This visualization clearly illustrates whether the company is outperforming, matching, or lagging the industry, highlighting the overall effectiveness of strategic execution.
+  - <b>Application:</b> This metric serves as a high-level strategic indicator for management and stakeholders, providing a quick assessment of the company's overall competitive standing and the effectiveness of its integrated business strategies. It guides discussions on areas requiring strategic intervention to close performance gaps or leverage competitive advantages.
