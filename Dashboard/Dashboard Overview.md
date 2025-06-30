@@ -69,11 +69,6 @@ This sections include the following metrics:
     - <b>Application:</b> This metric is crucial for assessing the effectiveness of overall business strategies in capturing and retaining market segments, understanding competitive strengths and weaknesses, and informing future strategic adjustments.
     - [<b>Market Share Visualization</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Market%20Performance.md#market-share)   
   
-  - <b>Demand & Sales Volume:</b> Units demanded and units sold for each bike segment and model.
-
-  - <b>Lost Sales:</b> Tracking of lost sales due to capacity issues.
-    
-  - <b>Brand Judgment:</b> Metrics or indicators related to brand perception and strength.
 
 <h1></h1>
 
