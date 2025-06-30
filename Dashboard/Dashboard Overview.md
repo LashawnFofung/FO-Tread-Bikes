@@ -99,6 +99,7 @@ This section includes the following metrics:
       - Production Shortfall / Surplus = Net Demand - Units Produced (A positive value indicates a shortfall, negative indicates surplus production).
     - <b>Data Analysis & Visualization (Microsoft Excel):</b> The Units Produced and Net Demand figures were extracted from the Inventory Position reports for each quarter. This data was then analyzed to identify trends in production capacity versus market needs. It was visualized using a grouped bar chart in Microsoft Excel, showing Units Produced alongside Net Demand for each quarter. This visualization clearly highlights periods where production was unable to keep pace with demand, indicating potential lost sales and the need for capacity adjustments.
     - <b>Application:</b> This metric is critical for supply chain management, production planning, and strategic investment in manufacturing capacity. It provides a direct measure of the company's ability to fulfill market demand and indicates potential areas for revenue growth if production constraints are addressed.
+    - [<b>Inventory Position Visualization</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Units%20Produced%20vs%20Demand%20Q2%20to%20Q6.png)
 
 
 <h1></h1>
