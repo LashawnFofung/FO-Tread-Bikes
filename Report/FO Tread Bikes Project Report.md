@@ -96,7 +96,7 @@ In conclusion, FO Treads Bikes has demonstrated exceptional financial performanc
 
 The project includes detailed analysis of market share and demand across Recreation, Speed, and Mountain bike segments from Q2 to Q6. Initial market share for FO Treads Bikes was 41% in Q2, shifting to 18% in Q3, with specific demand data for each segment showing varying market positions. Sales revenue and units sold for various bike brands are meticulously tracked, demonstrating significant growth from Q2 to Q3. Projected demand for Q6 was 3,630 units, with projected revenue of $5,357,880.00.
 
-[<b>Market Performance Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#market-performance)
+[<b>Market Performance Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Market%20Performance.md)
 
 
 <h1></h1>
