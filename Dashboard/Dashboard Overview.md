@@ -27,6 +27,7 @@ The dashboard includes the following critical components, allowing for a holisti
     -   <b>Formula:</b> Net Income = Total Revenue - Cost of Goods Sold - Operating Expenses - Interest Expense - Taxes
     -   <b>Data Analysis & Visualization (Microsoft Excel):</b> Net income figures were extracted directly from the Income Statement for each quarter and analyzed to identify trends. This data was then visualized using a line graph in Microsoft Excel, illustrating net income tracked quarter-over-quarter. This allowed for a clear observation of profitability trends and facilitated the evaluation of the direct impact of strategic decisions on the company's financial bottom line.
     -   <b>Application:</b> This metric is tracked quarter-over-quarter (e.g., Q4 Net Income, Q5 Net Income, Q6 Net Income) to observe trends in profitability and evaluate the impact of strategic decisions on the bottom line.
+    -   [<b>Profitability Visualization</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Financial%20Performance.md#profitability)
   
   - <b>Revenue:</b> Total sales revenue by quarter.
     - <b>Objective:</b> To track and analyze the company's total sales generation over time.
