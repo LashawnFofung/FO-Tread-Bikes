@@ -3,6 +3,7 @@
 <h1>FO Treads Bikes MBA Capstone Project: Dashboard Overview</h1>
 
 <b>Description and Contents</b>
+
 This dashboard for FO Tread Bikes MBA Capstone Project is a visual display of a few of the key business metrics, performance indicators, and data trends used throughout the simulation, business plan, and stockholder report deliverables. Designed to provide a comprehensive and real-time overview of the company's health and progress, it serves as a centralized hub for stakeholders—such as the project team, instructors, or hypothetical investors—to quickly grasp the state of the business, identify areas of success, and pinpoint challenges.
 
 <h1>Dashboard Content</h1>
