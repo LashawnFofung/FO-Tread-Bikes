@@ -7,5 +7,10 @@
 
 <h1></h1>
 
+<h3>Inventory Position</h3>
 
-https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Units%20Produced%20vs%20Demand%20Q2%20to%20Q6.png
+
+<b>Inventory Position: Units Produced vs. Net Demand</b>
+
+![Inventory Position: Units Produced vs Net Demand](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Image/Units%20Produced%20vs%20Demand%20Q2%20to%20Q6.png)
+
