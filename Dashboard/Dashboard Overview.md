@@ -7,7 +7,7 @@ A dashboard, in the context of the FO Treads Bikes MBA Capstone Project, is a vi
 
 <h1>Dashboard Content</h1>
 
-The dashboard includes the following critical components, allowing for a holistic view of the Marketplace Simulation performance:
+The section includes the following dashboards, allowing for a holistic view of the Marketplace Simulation performance:
 
   - [<b>Financial Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard%20Overview.md#financial-performance)
   - [<b>Market Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard%20Overview.md#market-performance)
