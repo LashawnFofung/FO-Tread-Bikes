@@ -28,6 +28,13 @@ The dashboard includes the following critical components, allowing for a holisti
     -   <b>Data Analysis & Visualization (Microsoft Excel):</b> Net income figures were extracted directly from the Income Statement for each quarter and analyzed to identify trends. This data was then visualized using a line graph in Microsoft Excel, illustrating net income tracked quarter-over-quarter. This allowed for a clear observation of profitability trends and facilitated the evaluation of the direct impact of strategic decisions on the company's financial bottom line.
     -   <b>Application:</b> This metric is tracked quarter-over-quarter (e.g., Q4 Net Income, Q5 Net Income, Q6 Net Income) to observe trends in profitability and evaluate the impact of strategic decisions on the bottom line.
   - <b>Revenue:</b> Total sales revenue by quarter, broken down by bike segment (Recreation, Speed, Mountain) and specific bike models (e.g., Mountain 3, CF Vector 3).
+    - <b>Objective:</b> To track and analyze the company's total sales generation over time.
+    - <b>Value Source:</b> Income Statement (for total sales revenue).
+    - <b>Metric:</b> Total Sales Revenue
+    - <b>Formula:</b> Total Sales Revenue = (Units Sold of Recreation Bikes * Price per Recreation Bike) + (Units Sold of Speed Bikes * Price per Speed Bike) + (Units Sold of Mountain Bikes * Price per Mountain Bike)
+    - <b>Note:</b> While the total sales revenue is derived from the sum of sales across segments, the Income Statement will typically show this as a single line item for 'Total Revenue' or 'Sales Revenue' per quarter.
+    - <b>Data Analysis & Visualization (Microsoft Excel):</b> Total sales revenue figures were extracted directly from the Income Statement for each quarter. This data was then visualized using a bar chart in Microsoft Excel, illustrating total sales revenue tracked quarter-over-quarter. This allowed for a clear observation of overall revenue trends and growth over time, and facilitated the evaluation of the effectiveness of broader sales strategies.
+    - <b>Application:</b> This metric is crucial for understanding the overall top-line growth of the company and evaluating the effectiveness of our sales and market penetration efforts across periods.    
   - <b>Cash Flow:</b> Beginning and ending cash balances, and cash flow from operating, investing, and financing activities.
   - <b>Investment & ROI:</b> Tracking of initial investment, total investment in R&D, production capacity, advertising, and the projected Return on Investment (ROI).
   - <b>Cost Analysis:</b> Average unit production cost, total production cost, and expenses related to advertising, sales force, and human resources.
