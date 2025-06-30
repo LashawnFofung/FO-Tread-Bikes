@@ -62,8 +62,16 @@ View the project's [<b>Market Performance Dashboard</b>](https://github.com/Lash
 This sections include the following metrics:
 
   - <b>Market Share:</b> Visualizations of FO Treads Bikes' market share across different quarters, compared to competitors.
+    - <b>Objective:</b> To visually represent FO Tread Bikes' market share performance relative to its competitors across different quarters, providing insights into competitive positioning and market penetration.
+    - <b>Value Source:</b> Market Share Reports (from the simulation data).
+    - <b>Metric:</b> Total Market Share (%) for FO Tread Bikes and its competitors.
+    - <b>Data Analysis & Visualization (Microsoft Excel):</b> Market share percentages for FO Tread Bikes and all competitors (THE GOOD BIKE, Thunder Bike, BIK3D, Back to Bike) were extracted from the Market Share reports for each quarter. This data was then visualized using pie charts in Microsoft Excel, providing a clear comparison of total market share distribution for each quarter. Each pie chart represents a single quarter, with slices showing the percentage of total market share held by each company. This visualization allows for a quick and intuitive understanding of competitive dynamics and FO Tread Bikes' position within the market over time.
+    - <b>Application:</b> This metric is crucial for assessing the effectiveness of overall business strategies in capturing and retaining market segments, understanding competitive strengths and weaknesses, and informing future strategic adjustments.    
   - <b>Demand & Sales Volume:</b> Units demanded and units sold for each bike segment and model.
+  - [<b>Market Share Visualization</b>]()
+
   - <b>Lost Sales:</b> Tracking of lost sales due to capacity issues.
+    
   - <b>Brand Judgment:</b> Metrics or indicators related to brand perception and strength.
 
 <h1></h1>
