@@ -36,7 +36,9 @@ The dashboard includes the following critical components, allowing for a holisti
     - <b>Formula:</b> Total Sales Revenue = (Units Sold of Recreation Bikes * Price per Recreation Bike) + (Units Sold of Speed Bikes * Price per Speed Bike) + (Units Sold of Mountain Bikes * Price per Mountain Bike)
     - <b>Note:</b> While the total sales revenue is derived from the sum of sales across segments, the Income Statement will typically show this as a single line item for 'Total Revenue' or 'Sales Revenue' per quarter.
     - <b>Data Analysis & Visualization (Microsoft Excel):</b> Total sales revenue figures were extracted directly from the Income Statement for each quarter. This data was then visualized using a bar chart in Microsoft Excel, illustrating total sales revenue tracked quarter-over-quarter. This allowed for a clear observation of overall revenue trends and growth over time, and facilitated the evaluation of the effectiveness of broader sales strategies.
-    - <b>Application:</b> This metric is crucial for understanding the overall top-line growth of the company and evaluating the effectiveness of our sales and market penetration efforts across periods.    
+    - <b>Application:</b> This metric is crucial for understanding the overall top-line growth of the company and evaluating the effectiveness of our sales and market penetration efforts across periods.
+    - [<b>Revenue Visualization</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Financial%20Performance.md#revenue)   
+  
   - <b>Cash Flow:</b> Beginning and ending cash balances, and cash flow from operating, investing, and financing activities.
   
   - <b>Investment (R&D):</b> Tracking total investment in R&D.
