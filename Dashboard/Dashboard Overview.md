@@ -16,7 +16,6 @@ The section includes the following dashboards, allowing for a holistic view of t
   - [<b>Financial Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard%20Overview.md#financial-performance)
   - [<b>Market Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard%20Overview.md#market-performance)
   - [<b>Operational Metrics</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard%20Overview.md#operational-metrics)
-  - [<b>Strategic Initiatives Progress</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard%20Overview.md#strategic-initiatives-progress)
   - [<b>Balanced Scorecard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard%20Overview.md#balanced-scorecard)
   
 <h1></h1>
@@ -104,18 +103,6 @@ This section includes the following metrics:
     - <b>Data Analysis & Visualization (Microsoft Excel):</b> The Units Produced and Net Demand figures were extracted from the Inventory Position reports for each quarter. This data was then analyzed to identify trends in production capacity versus market needs. It was visualized using a grouped bar chart in Microsoft Excel, showing Units Produced alongside Net Demand for each quarter. This visualization clearly highlights periods where production was unable to keep pace with demand, indicating potential lost sales and the need for capacity adjustments.
     - <b>Application:</b> This metric is critical for supply chain management, production planning, and strategic investment in manufacturing capacity. It provides a direct measure of the company's ability to fulfill market demand and indicates potential areas for revenue growth if production constraints are addressed.
     - [<b>Inventory Position Visualization</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Operational%20Metrics.md#inventory-position)
-
-
-<h1></h1>
-
-[<h1>Strategic Initiatives Progress</h1>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#strategic-initiative-progress)
-
-View the project's [<b>Strategic Initiatives Progress</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Strategic%20Initiatives%20Progress.md)
-
-This section includes the following metrics:
-
-  - <b>New Product Launches:</b> Status and performance of newly launched bike brands (e.g., Mountain 3, CF Vector 3).
-  - <b>R&D Investment Tracking:</b> How R&D funds translate into new products or technologies.
 
 
 <h1></h1>
