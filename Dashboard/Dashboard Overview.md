@@ -78,10 +78,27 @@ View the project's [<b>Operational Metrics Dashboard</b>](https://github.com/Las
 
 This section includes the following metrics:
 
-  - <b>Manufacturing Capacity:</b> Available fixed capacity versus operating capacity, and production volume over time.
-  - <b>Production Efficiency:</b> Percentage of lost capacity due to production productivity improvements.
-  - <b>Sales Channel Performance:</b> Sales broken down by different channels (e.g., flagship store).
-  - <b>Employee Productivity:</b> Indicators of human resource effectiveness, potentially linked to training and compensation.
+  - <b>Inventory Position: Units Produced vs. Net Demand</b>
+    - <b>Objective:</b> To analyze the company's manufacturing responsiveness by comparing the number of units produced against the market's net demand, identifying periods of alignment or shortfall.
+    - <b>Value Source:</b> Inventory Position Reports, Production Reports (from the simulation data).
+    - <b>Data Table:</b>
+        | Quarter | Units Produced | Net Demand |
+        | :------ | :------------- | :--------- |
+        | Q2      | 387            | 570        |
+        | Q3      | 659            | 659        |
+        | Q4      | 2,637          | 2,677      |
+        | Q5      | 3,371          | 5,608      |
+        | Q6      | 3,561          | 8,443      |
+
+    - <b>Metrics & Formulas:</b>
+    
+      - Units Produced (for a period): Direct data from production records.
+
+      - Net Demand (for a period): Direct data reflecting market requirement.
+
+      - Production Shortfall / Surplus = Net Demand - Units Produced (A positive value indicates a shortfall, negative indicates surplus production).
+    - <b>Data Analysis & Visualization (Microsoft Excel):</b> The Units Produced and Net Demand figures were extracted from the Inventory Position reports for each quarter. This data was then analyzed to identify trends in production capacity versus market needs. It was visualized using a grouped bar chart in Microsoft Excel, showing Units Produced alongside Net Demand for each quarter. This visualization clearly highlights periods where production was unable to keep pace with demand, indicating potential lost sales and the need for capacity adjustments.
+    - <b>Application:</b> This metric is critical for supply chain management, production planning, and strategic investment in manufacturing capacity. It provides a direct measure of the company's ability to fulfill market demand and indicates potential areas for revenue growth if production constraints are addressed.
 
 
 <h1></h1>
