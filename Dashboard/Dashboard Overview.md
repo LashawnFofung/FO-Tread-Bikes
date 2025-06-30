@@ -66,7 +66,7 @@ This sections include the following metrics:
 
   - <b>Market Share:</b> Visualizations of FO Treads Bikes' market share across different quarters, compared to competitors.
     - <b>Objective:</b> To visually represent FO Tread Bikes' market share performance relative to its competitors across different quarters, providing insights into competitive positioning and market penetration.
-    - <b>Value Source:</b> Market Share Reports (from the simulation data).
+    - <b>Value Source:</b> Market Share Reports 
     - <b>Metric:</b> Total Market Share (%) for FO Tread Bikes and its competitors.
     - <b>Data Analysis & Visualization (Microsoft Excel):</b> Market share percentages for FO Tread Bikes and all competitors (THE GOOD BIKE, Thunder Bike, BIK3D, Back to Bike) were extracted from the Market Share reports for each quarter. This data was then visualized using pie charts in Microsoft Excel, providing a clear comparison of total market share distribution for each quarter. Each pie chart represents a single quarter, with slices showing the percentage of total market share held by each company. This visualization allows for a quick and intuitive understanding of competitive dynamics and FO Tread Bikes' position within the market over time.
     - <b>Application:</b> This metric is crucial for assessing the effectiveness of overall business strategies in capturing and retaining market segments, understanding competitive strengths and weaknesses, and informing future strategic adjustments.
@@ -83,7 +83,7 @@ This section includes the following metrics:
 
   - <b>Inventory Position: Units Produced vs. Net Demand</b>
     - <b>Objective:</b> To analyze the company's manufacturing responsiveness by comparing the number of units produced against the market's net demand, identifying periods of alignment or shortfall.
-    - <b>Value Source:</b> Inventory Position Reports, Production Reports (from the simulation data).
+    - <b>Value Source:</b> Inventory Position Reports, Production Reports 
     - <b>Data Table:</b>
         | Quarter | Units Produced | Net Demand |
         | :------ | :------------- | :--------- |
@@ -115,7 +115,7 @@ This section includes the following metrics:
 
 - <b>Total Performance vs. Industry Average</b>
   - <b>Objective:</b> To assess FO Tread Bikes' overall performance across key strategic dimensions (e.g., Financial, Customer, Internal Processes, Learning & Growth) by comparing its combined Balanced Scorecard total performance against the industry average over time. This helps benchmark the company's holistic health and identify areas of strength or weakness relative to competitors.
-  - <b>Value Source:</b> Balanced Scorecard Reports (from the simulation data), Industry Performance Reports (from the simulation data).
+  - <b>Value Source:</b> Balanced Scorecard Reports (from the simulation data), Industry Performance Reports
   - <b>Metrics & Formulas:</b>
 
       - FO Tread Bikes Total Balanced Scorecard Performance (for a period): Direct data from the company's Balanced Scorecard report.
