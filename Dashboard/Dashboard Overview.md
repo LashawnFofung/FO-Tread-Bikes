@@ -43,8 +43,6 @@ This section include the following metrics:
     - <b>Application:</b> This metric is crucial for understanding the overall top-line growth of the company and evaluating the effectiveness of our sales and market penetration efforts across periods.
     - [<b>Revenue Visualization</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Financial%20Performance.md#revenue)   
   
-  - <b>Cash Flow:</b> Beginning and ending cash balances, and cash flow from operating, investing, and financing activities.
-  
   - <b>Investment (R&D):</b> Tracking total investment in R&D.
     - <b>Objective:</b> To monitor capital allocation across a key strategic area (R&D). 
     - <b>Value Source:</b> Income Statement (for R&D) 
@@ -57,6 +55,10 @@ This section include the following metrics:
 <h1></h1>
 
 [<h1>Market Performance</h1>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Market%20Performance.md)
+
+View the project's [<b>Operational Metrics Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Operational%20Metrics.md)
+
+This sections include the following metrics:
 
   - <b>Market Share:</b> Visualizations of FO Treads Bikes' market share across different quarters, compared to competitors.
   - <b>Demand & Sales Volume:</b> Units demanded and units sold for each bike segment and model.
@@ -74,22 +76,25 @@ View the project's [<b>Market Performance Dashboard</b>](https://github.com/Lash
   - <b>Sales Channel Performance:</b> Sales broken down by different channels (e.g., flagship store).
   - <b>Employee Productivity:</b> Indicators of human resource effectiveness, potentially linked to training and compensation.
 
-View the project's [<b>Operational Metrics Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Operational%20Metrics.md)
 
 <h1></h1>
 
 [<h1>Strategic Initiatives Progress</h1>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#strategic-initiative-progress)
 
+View the project's [<b>Strategic Initiatives Progress</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Strategic%20Initiatives%20Progress.md)
+
+This section includes the following metrics:
+
   - <b>New Product Launches:</b> Status and performance of newly launched bike brands (e.g., Mountain 3, CF Vector 3).
   - <b>R&D Investment Tracking:</b> How R&D funds translate into new products or technologies.
 
-View the project's [<b>Strategic Initiatives Progress</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Strategic%20Initiatives%20Progress.md)
 
 <h1></h1>
 
 [<h1>Balanced Scorecard</h1>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#balanced-scorecard)
 
-- <b>Total Performance</b> 
-
 View the project's [<b>Balanced Scorecard Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Balanced%20Scorecard.md)
 
+This section includes the following metrics:
+
+- <b>Total Performance</b> 
