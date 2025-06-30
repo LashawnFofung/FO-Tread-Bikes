@@ -13,6 +13,10 @@ Inventory Position refers to the relationship between the number of units a comp
 
 For FO Tread Bikes, the analysis reveals a significant and growing challenge in their inventory position from Q4 to Q6. While production increased, it consistently lagged behind a rapidly expanding market demand. Specifically, in Q5, there was a shortfall of 2,237 units, which escalated to a massive 4,882 units in Q6. This indicates that FO Tread Bikes was unable to produce enough units to meet the strong market demand, leading to substantial missed sales opportunities.
 
+<br>
+
+<br>
+
 
 
 <b>Inventory Position: Units Produced vs. Net Demand</b>
