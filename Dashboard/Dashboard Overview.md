@@ -83,7 +83,7 @@ This section includes the following metrics:
 
   - <b>Inventory Position: Units Produced vs. Net Demand</b>
     - <b>Objective:</b> To analyze the company's manufacturing responsiveness by comparing the number of units produced against the market's net demand, identifying periods of alignment or shortfall.
-    - <b>Value Source:</b> Inventory Position Reports, Production Reports 
+    - <b>Value Source:</b> Manufacturing (Inventory Position Reports, Production Reports) 
     - <b>Data Table:</b>
         | Quarter | Units Produced | Net Demand |
         | :------ | :------------- | :--------- |
@@ -115,7 +115,7 @@ This section includes the following metrics:
 
 - <b>Total Performance vs. Industry Average</b>
   - <b>Objective:</b> To assess FO Tread Bikes' overall performance across key strategic dimensions (e.g., Financial, Customer, Internal Processes, Learning & Growth) by comparing its combined Balanced Scorecard total performance against the industry average over time. This helps benchmark the company's holistic health and identify areas of strength or weakness relative to competitors.
-  - <b>Value Source:</b> Balanced Scorecard Reports (from the simulation data), Industry Performance Reports
+  - <b>Value Source:</b> [Balanced Scorecard Reports](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Data/Combined%20Balanced%20Scorecard%20from%20Marketplace%20Simulation%20Q2%20to%20Q6.xlsm)
   - <b>Metrics & Formulas:</b>
 
       - FO Tread Bikes Total Balanced Scorecard Performance (for a period): Direct data from the company's Balanced Scorecard report.
