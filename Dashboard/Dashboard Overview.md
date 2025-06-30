@@ -56,7 +56,8 @@ This section include the following metrics:
 
 [<h1>Market Performance</h1>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Market%20Performance.md)
 
-View the project's [<b>Operational Metrics Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Operational%20Metrics.md)
+View the project's [<b>Market Performance Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Market%20Performance.md)
+
 
 This sections include the following metrics:
 
@@ -65,11 +66,13 @@ This sections include the following metrics:
   - <b>Lost Sales:</b> Tracking of lost sales due to capacity issues.
   - <b>Brand Judgment:</b> Metrics or indicators related to brand perception and strength.
 
-View the project's [<b>Market Performance Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Market%20Performance.md)
-
 <h1></h1>
 
 [<h1>Operational Metrics</h1>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#operational-metrics)
+
+View the project's [<b>Operational Metrics Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Operational%20Metrics.md)
+
+This section includes the following metrics:
 
   - <b>Manufacturing Capacity:</b> Available fixed capacity versus operating capacity, and production volume over time.
   - <b>Production Efficiency:</b> Percentage of lost capacity due to production productivity improvements.
