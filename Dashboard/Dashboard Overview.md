@@ -61,7 +61,7 @@ View the project's [<b>Financial Performance Dashboard</b>](https://github.com/L
   - <b>Lost Sales:</b> Tracking of lost sales due to capacity issues.
   - <b>Brand Judgment:</b> Metrics or indicators related to brand perception and strength.
 
-[<b>Market Performance Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Market%20Performance.md)
+View the project's [<b>Market Performance Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Market%20Performance.md)
 
 <h1></h1>
 
@@ -72,7 +72,7 @@ View the project's [<b>Financial Performance Dashboard</b>](https://github.com/L
   - <b>Sales Channel Performance:</b> Sales broken down by different channels (e.g., flagship store).
   - <b>Employee Productivity:</b> Indicators of human resource effectiveness, potentially linked to training and compensation.
 
-[<b>Operational Metrics Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Operational%20Metrics.md)
+View the project's [<b>Operational Metrics Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Operational%20Metrics.md)
 
 <h1></h1>
 
@@ -81,7 +81,7 @@ View the project's [<b>Financial Performance Dashboard</b>](https://github.com/L
   - <b>New Product Launches:</b> Status and performance of newly launched bike brands (e.g., Mountain 3, CF Vector 3).
   - <b>R&D Investment Tracking:</b> How R&D funds translate into new products or technologies.
 
-[<b>Strategic Initiatives Progress</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Strategic%20Initiatives%20Progress.md)
+View the project's [<b>Strategic Initiatives Progress</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Strategic%20Initiatives%20Progress.md)
 
 <h1></h1>
 
@@ -89,5 +89,5 @@ View the project's [<b>Financial Performance Dashboard</b>](https://github.com/L
 
 - <b>Total Performance</b> 
 
-[<b>Balanced Scorecard Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Balanced%20Scorecard.md)
+View the project's [<b>Balanced Scorecard Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Balanced%20Scorecard.md)
 
