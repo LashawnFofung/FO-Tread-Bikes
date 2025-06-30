@@ -116,6 +116,8 @@ Operational Strategies
   - Sales Channel: Strategic store openings in New York City, Amsterdam, Bangalore, and Rio de Janeiro, along with increased sales and service employees.
   - Human Resources: Focus on employee compensation, benefits, and training to decrease turnover, improve morale, and increase productivity.
 
+[<b>Financial Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Financial%20Performance.md)
+
 <h1></h1>
 
 <h2>Anticipated Benefits</h2>
