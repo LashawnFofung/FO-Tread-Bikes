@@ -83,7 +83,7 @@ This section includes the following metrics:
 
   - <b>Inventory Position: Units Produced vs. Net Demand</b>
     - <b>Objective:</b> To analyze the company's manufacturing responsiveness by comparing the number of units produced against the market's net demand, identifying periods of alignment or shortfall.
-    - <b>Value Source:</b> Manufacturing (Inventory Position Reports, Production Reports) 
+    - <b>Value Source:</b> [Manufacturing](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Data/Manufacturing%20Combined%20Q2%20to%20Q6.xlsm) (Inventory Position Reports, Production Reports) 
     - <b>Data Table:</b>
         | Quarter | Units Produced | Net Demand |
         | :------ | :------------- | :--------- |
