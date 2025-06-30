@@ -6,6 +6,11 @@
 
 <h3>Total Performance vs. Industry Average</h3>
 
+<br>
+
+<br>
+
+
 <b>Comparison of Combined Balanced Scorecard - Total Performance Q2 to Q6 with Industry Average</b>
 
 This combination chart, titled "Comparison of Total Performance to Industry Average Q2-Q6," visually presents FO Tread Bikes' total Balanced Scorecard performance as blue columns, alongside the industry average as a light blue line, across Quarters 2 through 6. The chart allows for a quick comparison of our company's overall strategic performance against the market benchmark over time.
