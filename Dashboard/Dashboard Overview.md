@@ -1,129 +1,151 @@
-<img src="https://github.com/LashawnFofung/FO-Tread-Bikes/raw/main/FO%20Tread%20Bikes%20Logo%20PNG.png" width="200" alt="FO Tread Bikes Logo">
+<div align="center">
 
-<h1>FO Treads Bikes MBA Capstone Project: Dashboard Overview</h1>
+<img src="../FO%20Tread%20Bikes%20Logo%20PNG.png" width="140" alt="FO Tread Bikes logo">
 
-<b>Description and Contents</b>
+# FO Tread Bikes — Dashboard Overview
+### The key metrics behind the business plan and stockholder report
 
-This dashboard for FO Tread Bikes MBA Capstone Project is a visual display of a few of the key business metrics, performance indicators, and data trends used throughout the simulation, business plan, and stockholder report deliverables. Designed to provide a comprehensive and real-time overview of the company's health and progress, it serves as a centralized hub for stakeholders—such as the project team, instructors, or hypothetical investors—to quickly grasp the state of the business, identify areas of success, and pinpoint challenges.
+[← Back to project overview](../README.md)
 
-<h1></h1>
+</div>
 
+---
 
-<h1>Dashboard Content</h1>
+## Contents
+[At a Glance](#at-a-glance) · [Financial Performance](#-financial-performance) · [Market Performance](#-market-performance) · [Operational Metrics](#-operational-metrics) · [Balanced Scorecard](#-balanced-scorecard) · [Data Sources](#data-sources) · [How the Dashboards Were Built](#how-the-dashboards-were-built)
 
-The section includes the following dashboards, allowing for a holistic view of the Marketplace Simulation performance:
+---
 
-  - [<b>Financial Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard%20Overview.md#financial-performance)
-  - [<b>Market Performance</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard%20Overview.md#market-performance)
-  - [<b>Operational Metrics</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard%20Overview.md#operational-metrics)
-  - [<b>Balanced Scorecard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard%20Overview.md#balanced-scorecard)
-  
-<h1></h1>
+## At a Glance
 
+Four dashboards track FO Tread Bikes from launch (Q1) through Q6. Each answers one question:
 
-<h1>Financial Performance</h1>
+| Dashboard | Question it answers | Headline | Open |
+|---|---|---|---|
+| 💰 **Financial Performance** | Are we growing and making money? | Revenue rose from $0.5M (Q2) to **$4.7M (Q6)**; first profit of **$1.09M in Q5** | [Dashboard](Dashboards/Financial%20Performance.md) |
+| 📈 **Market Performance** | Are we winning customers from competitors? | Led at launch with **41%** share, dropped to 18% in Q3, then recovered to **#1 in Q5** | [Dashboard](Dashboards/Market%20Performance.md) |
+| 🏭 **Operational Metrics** | Can we make enough bikes to meet demand? | Production fell **4,882 units short** of demand in Q6 | [Dashboard](Dashboards/Operational%20Metrics.md) |
+| 🎯 **Balanced Scorecard** | How do we compare to the industry overall? | Industry-best total performance in **Q2 and Q4**; cumulative score **7.77 vs. 5.84 average** | [Dashboard](Dashboards/Balanced%20Scorecard.md) |
 
-View the project's [<b>Financial Performance Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Financial%20Performance.md)
+---
 
-This section include the following metrics:
+## 💰 Financial Performance
 
-  - <b>Profitability:</b> Net profit/Loss Over Time
-    -   <b>Objective:</b> To assess the company's financial success and efficiency in generating earnings over specific periods.
-    -   <b>Data Source:</b> [Income Statement](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Data/IncomeStatement%20(Q1%20to%20Q6).xlsx)
-    -   <b>Metric:</b> Net Income (or Net Profit, Net Earnings)
-    -   <b>Formula:</b> Net Income = Total Revenue - Cost of Goods Sold - Operating Expenses - Interest Expense - Taxes
-    -   <b>Data Analysis & Visualization (Microsoft Excel):</b> Net income figures were extracted directly from the Income Statement for each quarter and analyzed to identify trends. This data was then visualized using a line graph in Microsoft Excel, illustrating net income tracked quarter-over-quarter. This allowed for a clear observation of profitability trends and facilitated the evaluation of the direct impact of strategic decisions on the company's financial bottom line.
-    -   <b>Application:</b> This metric is tracked quarter-over-quarter (e.g., Q4 Net Income, Q5 Net Income, Q6 Net Income) to observe trends in profitability and evaluate the impact of strategic decisions on the bottom line.
-    -   [<b>Profitability Visualization</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Financial%20Performance.md#profitability)
-  
-  - <b>Revenue:</b> Total sales revenue by quarter.
-    - <b>Objective:</b> To track and analyze the company's total sales generation over time.
-    - <b>Data Source:</b> [Income Statement](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Data/IncomeStatement%20(Q1%20to%20Q6).xlsx) (for total sales revenue).
-    - <b>Metric:</b> Total Sales Revenue
-    - <b>Formula:</b> Total Sales Revenue = (Units Sold of Recreation Bikes * Price per Recreation Bike) + (Units Sold of Speed Bikes * Price per Speed Bike) + (Units Sold of Mountain Bikes * Price per Mountain Bike)
-    - <b>Note:</b> While the total sales revenue is derived from the sum of sales across segments, the Income Statement will typically show this as a single line item for 'Total Revenue' or 'Sales Revenue' per quarter.
-    - <b>Data Analysis & Visualization (Microsoft Excel):</b> Total sales revenue figures were extracted directly from the Income Statement for each quarter. This data was then visualized using a bar chart in Microsoft Excel, illustrating total sales revenue tracked quarter-over-quarter. This allowed for a clear observation of overall revenue trends and growth over time, and facilitated the evaluation of the effectiveness of broader sales strategies.
-    - <b>Application:</b> This metric is crucial for understanding the overall top-line growth of the company and evaluating the effectiveness of our sales and market penetration efforts across periods.
-    - [<b>Revenue Visualization</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Financial%20Performance.md#revenue)   
-  
-  - <b>Investment (R&D):</b> Tracking total investment in R&D.
-    - <b>Objective:</b> To monitor capital allocation across a key strategic area (R&D). 
-    - <b>Data Source:</b> [Income Statement](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Data/IncomeStatement%20(Q1%20to%20Q6).xlsx) (for R&D) 
-    - <b>Metrics & Formulas:</b> Total Investment in R&D = Sum of R&D Expense (from Income Statement for each quarter) 
-    - <b>Data Analysis & Visualization (Microsoft Excel):</b> R&D expense figures were extracted from the Income Statement for each quarter. This data was then visualized using a line chart in Microsoft Excel, illustrating R&D investment tracked quarter-over-quarter. This allowed for a clear observation of investment trends in innovation and facilitated the evaluation of resource allocation towards future product development. 
-    - <b>Application:</b> This section is critical for stakeholders to understand how capital is being deployed to drive growth, innovation, and operational efficiency, and to assess the ultimate financial returns generated by these strategic investments.
-    - [<b>Investment (R&D) Visualization</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Financial%20Performance.md#research-and-development-rd-investment) 
-  
+[Open dashboard →](Dashboards/Financial%20Performance.md)
 
-<h1></h1>
+| Metric | What it shows | Formula |
+|---|---|---|
+| **Profitability** | Net income by quarter | Revenue − cost of goods sold − operating expenses |
+| **Revenue** | Total sales by quarter | Sum of units sold × price across Recreation, Speed, and Mountain bikes |
+| **R&D investment** | Spending on innovation by quarter | R&D expense from the income statement |
 
-[<h1>Market Performance</h1>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Market%20Performance.md)
+| | Q1 | Q2 | Q3 | Q4 | Q5 | Q6 |
+|---|---|---|---|---|---|---|
+| **Revenue** | — | $0.51M | $1.01M | $3.52M | $4.42M | $4.66M |
+| **Net income** | −$0.35M | −$0.14M | −$0.03M | −$0.98M | **+$1.09M** | −$1.03M |
+| **R&D** | $0.15M | — | $0.09M | $1.91M | $0.44M | $2.36M |
 
-View the project's [<b>Market Performance Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Market%20Performance.md)
+**Takeaway:** strong, steady revenue growth. Profit arrived in Q5, as planned. The Q4 and Q6 losses line up with heavy R&D spending on 3D-printed carbon fiber technology and new models.
 
+<table>
+<tr>
+<td><img src="Image/Revenue%20(Total%20Sales%20Revenue%20by%20Quarter).png" width="280" alt="Revenue by quarter"></td>
+<td><img src="Image/Profitability%20(Profit%20%3A%20Loss%20Over%20Time).png" width="280" alt="Net income by quarter"></td>
+<td><img src="Image/Research%20and%20Development%20(R%26D)%20Investment.png" width="280" alt="R&D investment by quarter"></td>
+</tr>
+</table>
 
-This sections include the following metrics:
+---
 
-  - <b>Market Share:</b> Visualizations of FO Treads Bikes' market share across different quarters, compared to competitors.
-    - <b>Objective:</b> To visually represent FO Tread Bikes' market share performance relative to its competitors across different quarters, providing insights into competitive positioning and market penetration.
-    - <b>Data Source:</b> [Market Share Reports](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Data/Market%20Share%20Q2%20to%20Q6.xlsm) 
-    - <b>Metric:</b> Total Market Share (%) for FO Tread Bikes and its competitors.
-    - <b>Data Analysis & Visualization (Microsoft Excel):</b> Market share percentages for FO Tread Bikes and all competitors (THE GOOD BIKE, Thunder Bike, BIK3D, Back to Bike) were extracted from the Market Share reports for each quarter. This data was then visualized using pie charts in Microsoft Excel, providing a clear comparison of total market share distribution for each quarter. Each pie chart represents a single quarter, with slices showing the percentage of total market share held by each company. This visualization allows for a quick and intuitive understanding of competitive dynamics and FO Tread Bikes' position within the market over time.
-    - <b>Application:</b> This metric is crucial for assessing the effectiveness of overall business strategies in capturing and retaining market segments, understanding competitive strengths and weaknesses, and informing future strategic adjustments.
-    - [<b>Market Share Visualization</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Market%20Performance.md#market-share)   
-  
+## 📈 Market Performance
 
-<h1></h1>
+[Open dashboard →](Dashboards/Market%20Performance.md)
 
-[<h1>Operational Metrics</h1>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#operational-metrics)
+**Metric:** total market share (%) for FO Tread Bikes and its four competitors — THE GOOD BIKE, Thunder Bike, BIK3D, and Back to Bike.
 
-View the project's [<b>Operational Metrics Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Operational%20Metrics.md)
+| | Q2 | Q3 | Q4 | Q5 | Q6 |
+|---|---|---|---|---|---|
+| **FO Tread Bikes share** | **41.4%** | 17.9% | 27.7% | 25.1% | 21.0% |
+| **FO Tread Bikes demand (units)** | — | — | 2,677 | 5,608 | 8,443 |
+| **Total market demand (units)** | — | — | 9,653 | 22,352 | 40,181 |
 
-This section includes the following metrics:
+**Takeaway:** FO Tread led the market at launch with 41% share, the top position in Mountain and Speed bikes. Share dropped sharply in Q3 as competitors caught up. It recovered to second place in Q4 and **first place in Q5**, then fell to third in Q6 as BIK3D and Thunder Bike grew faster in a market that quadrupled.
 
-  - <b>Inventory Position: Units Produced vs. Net Demand</b>
-    - <b>Objective:</b> To analyze the company's manufacturing responsiveness by comparing the number of units produced against the market's net demand, identifying periods of alignment or shortfall.
-    - <b>Data Source:</b> [Manufacturing](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Data/Manufacturing%20Combined%20Q2%20to%20Q6.xlsm) (Inventory Position Reports, Production Reports) 
-    - <b>Data Table:</b>
-        | Quarter | Units Produced | Net Demand |
-        | :------ | :------------- | :--------- |
-        | Q2      | 387            | 570        |
-        | Q3      | 659            | 659        |
-        | Q4      | 2,637          | 2,677      |
-        | Q5      | 3,371          | 5,608      |
-        | Q6      | 3,561          | 8,443      |
+<table>
+<tr>
+<td><img src="Image/Q2%20and%20Q3%20Total%20Market%20Share%20PNG.png" width="420" alt="Market share Q2 and Q3"></td>
+<td><img src="Image/Q4%20to%20Q6%20Market%20Share%20PNG.png" width="420" alt="Market share Q4 to Q6"></td>
+</tr>
+</table>
 
-    - <b>Metrics & Formulas:</b>
-    
-      - Units Produced (for a period): Direct data from production records.
+---
 
-      - Net Demand (for a period): Direct data reflecting market requirement.
+## 🏭 Operational Metrics
 
-      - Production Shortfall / Surplus = Net Demand - Units Produced (A positive value indicates a shortfall, negative indicates surplus production).
-    - <b>Data Analysis & Visualization (Microsoft Excel):</b> The Units Produced and Net Demand figures were extracted from the Inventory Position reports for each quarter. This data was then analyzed to identify trends in production capacity versus market needs. It was visualized using a grouped bar chart in Microsoft Excel, showing Units Produced alongside Net Demand for each quarter. This visualization clearly highlights periods where production was unable to keep pace with demand, indicating potential lost sales and the need for capacity adjustments.
-    - <b>Application:</b> This metric is critical for supply chain management, production planning, and strategic investment in manufacturing capacity. It provides a direct measure of the company's ability to fulfill market demand and indicates potential areas for revenue growth if production constraints are addressed.
-    - [<b>Inventory Position Visualization</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Operational%20Metrics.md#inventory-position)
+[Open dashboard →](Dashboards/Operational%20Metrics.md)
 
+**Metric:** inventory position — units produced vs. net demand.
+**Formula:** shortfall = net demand − units produced (positive means demand went unmet).
 
-<h1></h1>
+| Quarter | Units produced | Net demand | Shortfall |
+|---|---|---|---|
+| Q2 | 387 | 570 | 183 |
+| Q3 | 659 | 659 | 0 |
+| Q4 | 2,637 | 2,677 | 40 |
+| Q5 | 3,371 | 5,608 | **2,237** |
+| Q6 | 3,561 | 8,443 | **4,882** |
 
-[<h1>Balanced Scorecard</h1>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboard.md#balanced-scorecard)
+**Takeaway:** production kept pace through Q4, then fell far behind as demand more than tripled. By Q6, the company met only about **42% of demand** — the clearest missed opportunity in the simulation, and the reason for the lesson to invest in capacity earlier.
 
-View the project's [<b>Balanced Scorecard Dashboard</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Balanced%20Scorecard.md)
+<img src="Image/Units%20Produced%20vs%20Demand%20Q2%20to%20Q6.png" width="600" alt="Units produced vs. net demand, Q2 to Q6">
 
-This section includes the following metrics:
+---
 
-- <b>Total Performance vs. Industry Average</b>
-  - <b>Objective:</b> To assess FO Tread Bikes' overall performance across key strategic dimensions (e.g., Financial, Customer, Internal Processes, Learning & Growth) by comparing its combined Balanced Scorecard total performance against the industry average over time. This helps benchmark the company's holistic health and identify areas of strength or weakness relative to competitors.
-  - <b>Data Source:</b> [Balanced Scorecard Reports](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Data/Combined%20Balanced%20Scorecard%20from%20Marketplace%20Simulation%20Q2%20to%20Q6.xlsm)
-  - <b>Metrics & Formulas:</b>
+## 🎯 Balanced Scorecard
 
-      - FO Tread Bikes Total Balanced Scorecard Performance (for a period): Direct data from the company's Balanced Scorecard report.
-  
-      - Industry Average Total Balanced Scorecard Performance (for a period): Direct data from industry benchmark reports.
-  
-      - Performance Gap = FO Tread Bikes Total Score - Industry Average Score (Indicates how far above or below the industry average the company performs).
+[Open dashboard →](Dashboards/Balanced%20Scorecard.md)
 
-  - <b>Data Analysis & Visualization (Microsoft Excel):</b> Total Balanced Scorecard performance scores for FO Tread Bikes and the corresponding industry averages were extracted for each quarter (Q2-Q6). This data was then analyzed to identify performance trends and the competitive gap. It would typically be visualized using a grouped bar chart or a line chart in Microsoft Excel, showing FO Tread Bikes' total performance alongside the industry average for each quarter. This visualization clearly illustrates whether the company is outperforming, matching, or lagging the industry, highlighting the overall effectiveness of strategic execution.
-  - <b>Application:</b> This metric serves as a high-level strategic indicator for management and stakeholders, providing a quick assessment of the company's overall competitive standing and the effectiveness of its integrated business strategies. It guides discussions on areas requiring strategic intervention to close performance gaps or leverage competitive advantages.
-  - [<b>Total Performance vs. Industry Average Visualization</b>](https://github.com/LashawnFofung/FO-Tread-Bikes/blob/main/Dashboard/Dashboards/Balanced%20Scorecard.md#total-performance-vs-industry-average)
+**Metric:** total performance, the simulation's overall score for how well the team runs the whole business. It **multiplies** ten indicators: financial performance, market performance, marketing effectiveness, investment in future, wealth, HR management, asset management, manufacturing productivity, financial risk, and reputation. A weakness in any one area pulls down the total.
+
+| | Q2 | Q3 | Q4 | Q5 | Q6 |
+|---|---|---|---|---|---|
+| **FO Tread Bikes** | **1.28** 🏆 | 1.71 | **14.33** 🏆 | 9.75 | 12.49 |
+| **Industry average** | 0.37 | 1.37 | 4.01 | 11.08 | 16.65 |
+
+🏆 = highest score in the industry that quarter
+
+**Cumulative through Q6:** **7.77**, above the **5.84** industry average. FO Tread had the industry's highest cumulative scores in financial performance, investment in future, asset management, and manufacturing productivity, with a perfect 1.000 financial risk score (no debt).
+
+**Takeaway:** FO Tread outperformed the industry through Q4. In Q5 and Q6, competitors caught up while low market performance and unmet demand held the total score back.
+
+<table>
+<tr>
+<td><img src="Image/Combo%20Chart%20Combined%20Balanced%20Scorecard%20Total%20Performance%20Q2%20to%20Q6%20and%20Averages%20PNG.png" width="420" alt="Total performance vs. industry average, Q2 to Q6"></td>
+<td><img src="Image/Cumulative%20Balanced%20Scorecard%20Q6%20PNG.png" width="420" alt="Cumulative Balanced Scorecard at Q6"></td>
+</tr>
+</table>
+
+---
+
+## Data Sources
+
+All data comes from the Marketplace Simulation's quarterly reports, exported to Excel:
+
+| File | Used in |
+|---|---|
+| [Income Statement](../Data/IncomeStatement%20(Q1%20to%20Q6).xlsx) | Revenue, profitability, R&D |
+| [Balance Sheet](../Data/BalanceSheet%20(Q1%20to%20Q6).xlsx) · [Cash Flow](../Data/CashFlow%20(Q1%20to%20Q6).xlsx) | Financial context |
+| [Market Share](../Data/Market%20Share%20Q2%20to%20Q6.xlsm) | Market share and demand |
+| [Manufacturing](../Data/Manufacturing%20Combined%20Q2%20to%20Q6.xlsm) | Units produced vs. demand |
+| [Combined Balanced Scorecard](../Data/Combined%20Balanced%20Scorecard%20from%20Marketplace%20Simulation%20Q2%20to%20Q6.xlsm) · [Cumulative Balanced Scorecard](../Data/CumulativeBalancedScorecard%20(Q2%20to%20Q6).xlsx) | Quarterly and cumulative scores, with each indicator's definition and formula |
+
+---
+
+## How the Dashboards Were Built
+
+1. **Extract** each quarter's figures from the simulation reports into Excel.
+2. **Calculate** derived metrics, such as production shortfall and the gap to the industry average.
+3. **Visualize** each metric with the chart that fits it: line charts for trends, bar charts for comparisons, and pie charts for market share.
+4. **Interpret** each chart with a takeaway that feeds the business plan and stockholder report.
+
+**Tool:** Microsoft Excel
