@@ -111,7 +111,7 @@ The simulation scores each company across financial, market, marketing, investme
 | **Manufacturing productivity** | 0.706 | Highest in the industry |
 | **Financial risk** | 1.000 | Perfect every quarter |
 
-**Areas to improve:** market performance (0.164), marketing effectiveness (0.738), and wealth (0.713) were at or near the bottom of the industry range.
+**Areas to improve:** market performance (0.164) was just below the industry average (0.167), while marketing effectiveness (0.738) and wealth (0.713) were the lowest in the industry.
 
 <img src="Dashboard/Image/Cumulative%20Balanced%20Scorecard%20Q6%20PNG.png" width="650" alt="Cumulative Balanced Scorecard at Q6">
 
@@ -155,4 +155,3 @@ The simulation scores each company across financial, market, marketing, investme
 **Lashawn Fofung** · Technical Product Manager · [LinkedIn](https://www.linkedin.com/in/lashawnfofung/) · [MBA Portfolio](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio) · [All Projects](https://github.com/LashawnFofung/LashawnFofung-Portfolio)
 
 </div>
-
