@@ -1,9 +1,8 @@
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/readme-header-dark.svg"><img src="assets/readme/readme-header-light.svg" width="880" alt="FO Tread Bikes MBA capstone: revenue grew from $0.5M to $4.7M."></picture></p>
+
 <div align="center">
 
 <img src="FO%20Tread%20Bikes%20Logo%20PNG.png" width="160" alt="FO Tread Bikes logo">
-
-# 🚲 FO Tread Bikes — MBA Capstone
-### Running a bike company in a competitive market simulation
 
 **Business Strategy · Financial Management · Balanced Scorecard** · WGU MBA Capstone (Conscious Capitalism) · Apr 2025 – Jun 2025
 
@@ -12,6 +11,25 @@
 [![MBA Portfolio](https://img.shields.io/badge/MBA_Portfolio-View-6E40C9?style=flat&logo=github&logoColor=white)](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio)
 
 </div>
+
+## Quick Tour
+
+The coral card is what I’d do differently.
+
+<table>
+<tr>
+<td><a href="#strategy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-01-strategy-dark.svg"><img src="assets/readme/card-01-strategy-light.svg" width="420" alt="Strategy: 3D-printed carbon fiber bikes. Plan."></picture></a></td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-02-growth-dark.svg"><img src="assets/readme/card-02-growth-light.svg" width="420" alt="Growth: Revenue grew about 9×. Result."></picture></td>
+</tr>
+<tr>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-03-first-profit-dark.svg"><img src="assets/readme/card-03-first-profit-light.svg" width="420" alt="First Profit: $1.09M net income in Q5. Result."></picture></td>
+<td><a href="#awards"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-04-awards-dark.svg"><img src="assets/readme/card-04-awards-light.svg" width="420" alt="Awards: Best Brand three quarters running. Result."></picture></a></td>
+</tr>
+<tr>
+<td><a href="#balanced-scorecard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-05-balanced-scorecard-dark.svg"><img src="assets/readme/card-05-balanced-scorecard-light.svg" width="420" alt="Balanced Scorecard: Industry-best in Q2 and Q4. Result."></picture></a></td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-06-key-lesson-dark.svg"><img src="assets/readme/card-06-key-lesson-light.svg" width="420" alt="Key Lesson: 4,882-unit shortfall in Q6. Lesson."></picture></td>
+</tr>
+</table>
 
 ---
 
@@ -155,3 +173,7 @@ The simulation scores each company across financial, market, marketing, investme
 **Lashawn Fofung** · Technical Product Manager · [LinkedIn](https://www.linkedin.com/in/lashawnfofung/) · [MBA Portfolio](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio) · [All Projects](https://github.com/LashawnFofung/LashawnFofung-Portfolio)
 
 </div>
+
+---
+
+<p align="center"><sub>Built by Lashawn Fofung · LF™ · Learn. Apply. Grow. Repeat.</sub></p>
